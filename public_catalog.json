@@ -1,10 +1,10 @@
 {
   "schema_version": "materials-public-catalog-v1",
-  "generated_at": "2026-06-25T06:51:26.008934+00:00",
+  "generated_at": "2026-06-25T07:23:57.396274+00:00",
   "summary": {
-    "product_count": 217,
-    "property_value_count": 263,
-    "official_evidence_count": 217
+    "product_count": 222,
+    "property_value_count": 269,
+    "official_evidence_count": 222
   },
   "products": [
     {
@@ -1086,6 +1086,48 @@
       "filter_match_score": null
     },
     {
+      "id": 1189,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "IGM Resins B.V.",
+      "product_name": "Omnirad 500",
+      "brand": null,
+      "grade": "Omnirad 500",
+      "product_code": "Omnirad 500",
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 60.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 75.0,
+      "property_count": 2,
+      "evidence_count": 1,
+      "confidence": 0.82,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "外观",
+          "code": "appearance",
+          "value_text": "Liquid",
+          "unit": "",
+          "confidence": 0.82
+        },
+        {
+          "label_cn": "UV吸收波长",
+          "code": "uv_absorption_wavelength",
+          "value_text": "248, 338",
+          "unit": "nm",
+          "confidence": 0.82
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
+    {
       "id": 976,
       "customer_visible_material_type": "raw_material",
       "company_name": "BASF SE",
@@ -1826,6 +1868,146 @@
           "value_text": "value (as supplied) ~ 13",
           "unit": "",
           "confidence": 0.78
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
+    {
+      "id": 1192,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "BYK-Chemie GmbH",
+      "product_name": "BYK-1165",
+      "brand": null,
+      "grade": "BYK-1165",
+      "product_code": "BYK-1165",
+      "category_name": "助剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 50.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 65.0,
+      "property_count": 1,
+      "evidence_count": 1,
+      "confidence": 0.82,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "保质期",
+          "code": "shelf_life",
+          "value_text": "36",
+          "unit": "month",
+          "confidence": 0.82
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
+    {
+      "id": 1191,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "BYK-Chemie GmbH",
+      "product_name": "DISPERBYK-111",
+      "brand": null,
+      "grade": "DISPERBYK-111",
+      "product_code": "DISPERBYK-111",
+      "category_name": "助剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 50.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 65.0,
+      "property_count": 1,
+      "evidence_count": 1,
+      "confidence": 0.82,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "保质期",
+          "code": "shelf_life",
+          "value_text": "60",
+          "unit": "month",
+          "confidence": 0.82
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
+    {
+      "id": 1193,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "BYK-Chemie GmbH",
+      "product_name": "DISPERBYK-161",
+      "brand": null,
+      "grade": "DISPERBYK-161",
+      "product_code": "DISPERBYK-161",
+      "category_name": "助剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 50.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 65.0,
+      "property_count": 1,
+      "evidence_count": 1,
+      "confidence": 0.82,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "保质期",
+          "code": "shelf_life",
+          "value_text": "60",
+          "unit": "month",
+          "confidence": 0.82
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
+    {
+      "id": 1190,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "BYK-Chemie GmbH",
+      "product_name": "DISPERBYK-2159",
+      "brand": null,
+      "grade": "DISPERBYK-2159",
+      "product_code": "DISPERBYK-2159",
+      "category_name": "助剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 50.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 65.0,
+      "property_count": 1,
+      "evidence_count": 1,
+      "confidence": 0.82,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "保质期",
+          "code": "shelf_life",
+          "value_text": "36",
+          "unit": "month",
+          "confidence": 0.82
         }
       ],
       "matched_parameter_codes": [],
@@ -10549,6 +10731,100 @@
         }
       ]
     },
+    "1189": {
+      "id": 1189,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "IGM Resins B.V.",
+      "product_name": "Omnirad 500",
+      "brand": null,
+      "grade": "Omnirad 500",
+      "product_code": "Omnirad 500",
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 60.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 75.0,
+      "property_count": 2,
+      "evidence_count": 1,
+      "confidence": 0.82,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "外观",
+          "code": "appearance",
+          "value_text": "Liquid",
+          "unit": "",
+          "confidence": 0.82
+        },
+        {
+          "label_cn": "UV吸收波长",
+          "code": "uv_absorption_wavelength",
+          "value_text": "248, 338",
+          "unit": "nm",
+          "confidence": 0.82
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_product_page"
+        ],
+        "missing_parameter_labels": [
+          "Tg",
+          "粘度",
+          "断裂伸长率",
+          "弯曲强度"
+        ]
+      },
+      "properties": [
+        {
+          "id": 4178,
+          "label_cn": "UV吸收波长",
+          "label_en": "UV absorption wavelength",
+          "code": "uv_absorption_wavelength",
+          "domain": "curing",
+          "value_text": "248, 338",
+          "unit": "nm",
+          "normalized_min": 248.0,
+          "normalized_max": 338.0,
+          "normalized_unit": "nm",
+          "confidence": 0.82,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_product_page",
+          "source_title": "Omnirad 500",
+          "source_url": "https://www.igmresins.com/en/product/omnirad_500",
+          "snippet": null
+        },
+        {
+          "id": 4177,
+          "label_cn": "外观",
+          "label_en": "Appearance",
+          "code": "appearance",
+          "domain": "physical",
+          "value_text": "Liquid",
+          "unit": "",
+          "normalized_min": null,
+          "normalized_max": null,
+          "normalized_unit": "",
+          "confidence": 0.82,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_product_page",
+          "source_title": "Omnirad 500",
+          "source_url": "https://www.igmresins.com/en/product/omnirad_500",
+          "snippet": null
+        }
+      ]
+    },
     "976": {
       "id": 976,
       "customer_visible_material_type": "raw_material",
@@ -12025,6 +12301,278 @@
           "source_type": "official_tds",
           "source_title": "Technical Information",
           "source_url": "https://dispersions-resins-products.basf.us/files/technical-datasheets/LoxanolMI6735_TI_30564879_EN.pdf",
+          "snippet": null
+        }
+      ]
+    },
+    "1192": {
+      "id": 1192,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "BYK-Chemie GmbH",
+      "product_name": "BYK-1165",
+      "brand": null,
+      "grade": "BYK-1165",
+      "product_code": "BYK-1165",
+      "category_name": "助剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 50.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 65.0,
+      "property_count": 1,
+      "evidence_count": 1,
+      "confidence": 0.82,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "保质期",
+          "code": "shelf_life",
+          "value_text": "36",
+          "unit": "month",
+          "confidence": 0.82
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_product_page"
+        ],
+        "missing_parameter_labels": [
+          "Tg",
+          "粘度",
+          "断裂伸长率",
+          "弯曲强度"
+        ]
+      },
+      "properties": [
+        {
+          "id": 4181,
+          "label_cn": "保质期",
+          "label_en": "Shelf life",
+          "code": "shelf_life",
+          "domain": "safety",
+          "value_text": "36",
+          "unit": "month",
+          "normalized_min": 36.0,
+          "normalized_max": 36.0,
+          "normalized_unit": "month",
+          "confidence": 0.82,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_product_page",
+          "source_title": "BYK-1165 - Viscosity depressant",
+          "source_url": "https://www.byk.com/en/products/additive-guide/byk-1165",
+          "snippet": null
+        }
+      ]
+    },
+    "1191": {
+      "id": 1191,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "BYK-Chemie GmbH",
+      "product_name": "DISPERBYK-111",
+      "brand": null,
+      "grade": "DISPERBYK-111",
+      "product_code": "DISPERBYK-111",
+      "category_name": "助剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 50.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 65.0,
+      "property_count": 1,
+      "evidence_count": 1,
+      "confidence": 0.82,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "保质期",
+          "code": "shelf_life",
+          "value_text": "60",
+          "unit": "month",
+          "confidence": 0.82
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_product_page"
+        ],
+        "missing_parameter_labels": [
+          "Tg",
+          "粘度",
+          "断裂伸长率",
+          "弯曲强度"
+        ]
+      },
+      "properties": [
+        {
+          "id": 4180,
+          "label_cn": "保质期",
+          "label_en": "Shelf life",
+          "code": "shelf_life",
+          "domain": "safety",
+          "value_text": "60",
+          "unit": "month",
+          "normalized_min": 60.0,
+          "normalized_max": 60.0,
+          "normalized_unit": "month",
+          "confidence": 0.82,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_product_page",
+          "source_title": "DISPERBYK-111 - Wetting and dispersing additive",
+          "source_url": "https://www.byk.com/en/products/additive-guide/disperbyk-111",
+          "snippet": null
+        }
+      ]
+    },
+    "1193": {
+      "id": 1193,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "BYK-Chemie GmbH",
+      "product_name": "DISPERBYK-161",
+      "brand": null,
+      "grade": "DISPERBYK-161",
+      "product_code": "DISPERBYK-161",
+      "category_name": "助剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 50.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 65.0,
+      "property_count": 1,
+      "evidence_count": 1,
+      "confidence": 0.82,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "保质期",
+          "code": "shelf_life",
+          "value_text": "60",
+          "unit": "month",
+          "confidence": 0.82
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_product_page"
+        ],
+        "missing_parameter_labels": [
+          "Tg",
+          "粘度",
+          "断裂伸长率",
+          "弯曲强度"
+        ]
+      },
+      "properties": [
+        {
+          "id": 4182,
+          "label_cn": "保质期",
+          "label_en": "Shelf life",
+          "code": "shelf_life",
+          "domain": "safety",
+          "value_text": "60",
+          "unit": "month",
+          "normalized_min": 60.0,
+          "normalized_max": 60.0,
+          "normalized_unit": "month",
+          "confidence": 0.82,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_product_page",
+          "source_title": "DISPERBYK-161 - Wetting and dispersing additive",
+          "source_url": "https://www.byk.com/en/products/additive-guide/disperbyk-161",
+          "snippet": null
+        }
+      ]
+    },
+    "1190": {
+      "id": 1190,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "BYK-Chemie GmbH",
+      "product_name": "DISPERBYK-2159",
+      "brand": null,
+      "grade": "DISPERBYK-2159",
+      "product_code": "DISPERBYK-2159",
+      "category_name": "助剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 50.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 65.0,
+      "property_count": 1,
+      "evidence_count": 1,
+      "confidence": 0.82,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "保质期",
+          "code": "shelf_life",
+          "value_text": "36",
+          "unit": "month",
+          "confidence": 0.82
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_product_page"
+        ],
+        "missing_parameter_labels": [
+          "Tg",
+          "粘度",
+          "断裂伸长率",
+          "弯曲强度"
+        ]
+      },
+      "properties": [
+        {
+          "id": 4179,
+          "label_cn": "保质期",
+          "label_en": "Shelf life",
+          "code": "shelf_life",
+          "domain": "safety",
+          "value_text": "36",
+          "unit": "month",
+          "normalized_min": 36.0,
+          "normalized_max": 36.0,
+          "normalized_unit": "month",
+          "confidence": 0.82,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_product_page",
+          "source_title": "DISPERBYK-2159 - Wetting and dispersing additive",
+          "source_url": "https://www.byk.com/en/products/additive-guide/disperbyk-2159",
           "snippet": null
         }
       ]
