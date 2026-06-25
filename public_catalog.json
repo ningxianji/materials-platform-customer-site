@@ -1,10 +1,10 @@
 {
   "schema_version": "materials-public-catalog-v1",
-  "generated_at": "2026-06-25T07:23:57.396274+00:00",
+  "generated_at": "2026-06-25T07:43:21.826530+00:00",
   "summary": {
-    "product_count": 222,
-    "property_value_count": 269,
-    "official_evidence_count": 222
+    "product_count": 231,
+    "property_value_count": 286,
+    "official_evidence_count": 231
   },
   "products": [
     {
@@ -309,6 +309,111 @@
       "filter_match_score": null
     },
     {
+      "id": 1188,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "Nouryon Holding B.V.",
+      "product_name": "Perkadox 24-W35",
+      "brand": null,
+      "grade": "Perkadox 24-W35",
+      "product_code": "Perkadox 24-W35",
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 70.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 85.0,
+      "property_count": 4,
+      "evidence_count": 1,
+      "confidence": 0.78,
+      "source_types": [
+        "official_tds"
+      ],
+      "parameters": [
+        {
+          "label_cn": "纯度",
+          "code": "purity",
+          "value_text": "34.0-36.0 %",
+          "unit": "%",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "粘度",
+          "code": "viscosity",
+          "value_text": "20°C 500 mPa.s",
+          "unit": "mPa.s",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "密度",
+          "code": "density",
+          "value_text": "20 °C 1. 0 g/cm³",
+          "unit": "g/cm³",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "密度",
+          "code": "density",
+          "value_text": "20 °C 1.0 g/cm³",
+          "unit": "g/cm³",
+          "confidence": 0.78
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
+    {
+      "id": 1196,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "IGM Resins B.V.",
+      "product_name": "Omnirad 1173",
+      "brand": null,
+      "grade": "Omnirad 1173",
+      "product_code": "Omnirad 1173",
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 70.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 85.0,
+      "property_count": 3,
+      "evidence_count": 1,
+      "confidence": 0.9,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "UV吸收波长",
+          "code": "uv_absorption_wavelength",
+          "value_text": "244, 330",
+          "unit": "nm",
+          "confidence": 0.9
+        },
+        {
+          "label_cn": "CAS号",
+          "code": "cas_no",
+          "value_text": "7473-98-5",
+          "unit": "",
+          "confidence": 0.88
+        },
+        {
+          "label_cn": "外观",
+          "code": "appearance",
+          "value_text": "Liquid",
+          "unit": "",
+          "confidence": 0.86
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
+    {
       "id": 1005,
       "customer_visible_material_type": "raw_material",
       "company_name": "IGM Resins B.V.",
@@ -446,55 +551,6 @@
           "code": "viscosity",
           "value_text": "-10°C 74.6 mPa.s",
           "unit": "mPa.s",
-          "confidence": 0.78
-        }
-      ],
-      "matched_parameter_codes": [],
-      "missing_parameter_codes": [],
-      "failed_parameter_codes": [],
-      "pending_parameter_codes": [],
-      "filter_match_score": null
-    },
-    {
-      "id": 1188,
-      "customer_visible_material_type": "raw_material",
-      "company_name": "Nouryon Holding B.V.",
-      "product_name": "Perkadox 24-W35",
-      "brand": null,
-      "grade": "Perkadox 24-W35",
-      "product_code": "Perkadox 24-W35",
-      "category_name": "引发剂",
-      "status": "candidate",
-      "completeness_grade": "C",
-      "data_completeness_score": 70.0,
-      "source_reliability_score": 95.0,
-      "selection_readiness_score": 85.0,
-      "property_count": 3,
-      "evidence_count": 1,
-      "confidence": 0.78,
-      "source_types": [
-        "official_tds"
-      ],
-      "parameters": [
-        {
-          "label_cn": "纯度",
-          "code": "purity",
-          "value_text": "34.0-36.0 %",
-          "unit": "%",
-          "confidence": 0.78
-        },
-        {
-          "label_cn": "粘度",
-          "code": "viscosity",
-          "value_text": "20°C 500 mPa.s",
-          "unit": "mPa.s",
-          "confidence": 0.78
-        },
-        {
-          "label_cn": "密度",
-          "code": "density",
-          "value_text": "20 °C 1. 0 g/cm³",
-          "unit": "g/cm³",
           "confidence": 0.78
         }
       ],
@@ -792,6 +848,55 @@
       "filter_match_score": null
     },
     {
+      "id": 999,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "IGM Resins B.V.",
+      "product_name": "Omnirad TPO-L",
+      "brand": null,
+      "grade": "Omnirad TPO-L",
+      "product_code": "Omnirad TPO-L",
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 60.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 75.0,
+      "property_count": 3,
+      "evidence_count": 1,
+      "confidence": 0.9,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "UV吸收波长",
+          "code": "uv_absorption_wavelength",
+          "value_text": "230, 275, 370",
+          "unit": "nm",
+          "confidence": 0.9
+        },
+        {
+          "label_cn": "CAS号",
+          "code": "cas_no",
+          "value_text": "84434-11-7",
+          "unit": "",
+          "confidence": 0.88
+        },
+        {
+          "label_cn": "UV吸收波长",
+          "code": "uv_absorption_wavelength",
+          "value_text": "(nm): 230 , 275, 370 nm",
+          "unit": "nm",
+          "confidence": 0.78
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
+    {
       "id": 993,
       "customer_visible_material_type": "raw_material",
       "company_name": "BASF SE",
@@ -1044,6 +1149,48 @@
       "filter_match_score": null
     },
     {
+      "id": 1195,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "IGM Resins B.V.",
+      "product_name": "Omnirad 184",
+      "brand": null,
+      "grade": "Omnirad 184",
+      "product_code": "Omnirad 184",
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 60.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 75.0,
+      "property_count": 2,
+      "evidence_count": 1,
+      "confidence": 0.9,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "UV吸收波长",
+          "code": "uv_absorption_wavelength",
+          "value_text": "243, 331",
+          "unit": "nm",
+          "confidence": 0.9
+        },
+        {
+          "label_cn": "CAS号",
+          "code": "cas_no",
+          "value_text": "947-19-3",
+          "unit": "",
+          "confidence": 0.88
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
+    {
       "id": 1006,
       "customer_visible_material_type": "raw_material",
       "company_name": "IGM Resins B.V.",
@@ -1119,6 +1266,90 @@
           "value_text": "248, 338",
           "unit": "nm",
           "confidence": 0.82
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
+    {
+      "id": 1194,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "IGM Resins B.V.",
+      "product_name": "Omnirad 819",
+      "brand": null,
+      "grade": "Omnirad 819",
+      "product_code": "Omnirad 819",
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 60.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 75.0,
+      "property_count": 2,
+      "evidence_count": 1,
+      "confidence": 0.9,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "UV吸收波长",
+          "code": "uv_absorption_wavelength",
+          "value_text": "237, 275, 380",
+          "unit": "nm",
+          "confidence": 0.9
+        },
+        {
+          "label_cn": "CAS号",
+          "code": "cas_no",
+          "value_text": "162881-26-7",
+          "unit": "",
+          "confidence": 0.88
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
+    {
+      "id": 1197,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "IGM Resins B.V.",
+      "product_name": "Omnirad 907",
+      "brand": null,
+      "grade": "Omnirad 907",
+      "product_code": "Omnirad 907",
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 60.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 75.0,
+      "property_count": 2,
+      "evidence_count": 1,
+      "confidence": 0.9,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "UV吸收波长",
+          "code": "uv_absorption_wavelength",
+          "value_text": "230, 303",
+          "unit": "nm",
+          "confidence": 0.9
+        },
+        {
+          "label_cn": "CAS号",
+          "code": "cas_no",
+          "value_text": "71868-10-5",
+          "unit": "",
+          "confidence": 0.88
         }
       ],
       "matched_parameter_codes": [],
@@ -1912,6 +2143,76 @@
       "filter_match_score": null
     },
     {
+      "id": 1201,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "BYK-Chemie GmbH",
+      "product_name": "BYK-333",
+      "brand": null,
+      "grade": "BYK-333",
+      "product_code": "BYK-333",
+      "category_name": "助剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 50.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 65.0,
+      "property_count": 1,
+      "evidence_count": 1,
+      "confidence": 0.9,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "保质期",
+          "code": "shelf_life",
+          "value_text": "60",
+          "unit": "month",
+          "confidence": 0.9
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
+    {
+      "id": 1202,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "BYK-Chemie GmbH",
+      "product_name": "BYK-378",
+      "brand": null,
+      "grade": "BYK-378",
+      "product_code": "BYK-378",
+      "category_name": "助剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 50.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 65.0,
+      "property_count": 1,
+      "evidence_count": 1,
+      "confidence": 0.9,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "保质期",
+          "code": "shelf_life",
+          "value_text": "36",
+          "unit": "month",
+          "confidence": 0.9
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
+    {
       "id": 1191,
       "customer_visible_material_type": "raw_material",
       "company_name": "BYK-Chemie GmbH",
@@ -1973,6 +2274,111 @@
           "value_text": "60",
           "unit": "month",
           "confidence": 0.82
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
+    {
+      "id": 1198,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "BYK-Chemie GmbH",
+      "product_name": "DISPERBYK-180",
+      "brand": null,
+      "grade": "DISPERBYK-180",
+      "product_code": "DISPERBYK-180",
+      "category_name": "助剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 50.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 65.0,
+      "property_count": 1,
+      "evidence_count": 1,
+      "confidence": 0.9,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "保质期",
+          "code": "shelf_life",
+          "value_text": "60",
+          "unit": "month",
+          "confidence": 0.9
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
+    {
+      "id": 1199,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "BYK-Chemie GmbH",
+      "product_name": "DISPERBYK-190",
+      "brand": null,
+      "grade": "DISPERBYK-190",
+      "product_code": "DISPERBYK-190",
+      "category_name": "助剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 50.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 65.0,
+      "property_count": 1,
+      "evidence_count": 1,
+      "confidence": 0.9,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "保质期",
+          "code": "shelf_life",
+          "value_text": "60",
+          "unit": "month",
+          "confidence": 0.9
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
+    {
+      "id": 1200,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "BYK-Chemie GmbH",
+      "product_name": "DISPERBYK-2013",
+      "brand": null,
+      "grade": "DISPERBYK-2013",
+      "product_code": "DISPERBYK-2013",
+      "category_name": "助剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 50.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 65.0,
+      "property_count": 1,
+      "evidence_count": 1,
+      "confidence": 0.9,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "保质期",
+          "code": "shelf_life",
+          "value_text": "36",
+          "unit": "month",
+          "confidence": 0.9
         }
       ],
       "matched_parameter_codes": [],
@@ -2146,41 +2552,6 @@
           "label_cn": "UV吸收波长",
           "code": "uv_absorption_wavelength",
           "value_text": "(nm): 253 , 282 nm",
-          "unit": "nm",
-          "confidence": 0.78
-        }
-      ],
-      "matched_parameter_codes": [],
-      "missing_parameter_codes": [],
-      "failed_parameter_codes": [],
-      "pending_parameter_codes": [],
-      "filter_match_score": null
-    },
-    {
-      "id": 999,
-      "customer_visible_material_type": "raw_material",
-      "company_name": "IGM Resins B.V.",
-      "product_name": "Omnirad TPO-L",
-      "brand": null,
-      "grade": "Omnirad TPO-L",
-      "product_code": "Omnirad TPO-L",
-      "category_name": "引发剂",
-      "status": "candidate",
-      "completeness_grade": "C",
-      "data_completeness_score": 50.0,
-      "source_reliability_score": 95.0,
-      "selection_readiness_score": 65.0,
-      "property_count": 1,
-      "evidence_count": 1,
-      "confidence": 0.78,
-      "source_types": [
-        "official_product_page"
-      ],
-      "parameters": [
-        {
-          "label_cn": "UV吸收波长",
-          "code": "uv_absorption_wavelength",
-          "value_text": "(nm): 230 , 275, 370 nm",
           "unit": "nm",
           "confidence": 0.78
         }
@@ -8910,6 +9281,271 @@
         }
       ]
     },
+    "1188": {
+      "id": 1188,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "Nouryon Holding B.V.",
+      "product_name": "Perkadox 24-W35",
+      "brand": null,
+      "grade": "Perkadox 24-W35",
+      "product_code": "Perkadox 24-W35",
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 70.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 85.0,
+      "property_count": 4,
+      "evidence_count": 1,
+      "confidence": 0.78,
+      "source_types": [
+        "official_tds"
+      ],
+      "parameters": [
+        {
+          "label_cn": "纯度",
+          "code": "purity",
+          "value_text": "34.0-36.0 %",
+          "unit": "%",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "粘度",
+          "code": "viscosity",
+          "value_text": "20°C 500 mPa.s",
+          "unit": "mPa.s",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "密度",
+          "code": "density",
+          "value_text": "20 °C 1. 0 g/cm³",
+          "unit": "g/cm³",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "密度",
+          "code": "density",
+          "value_text": "20 °C 1.0 g/cm³",
+          "unit": "g/cm³",
+          "confidence": 0.78
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_tds"
+        ],
+        "missing_parameter_labels": [
+          "Tg",
+          "断裂伸长率",
+          "弯曲强度"
+        ]
+      },
+      "properties": [
+        {
+          "id": 4174,
+          "label_cn": "纯度",
+          "label_en": "Purity",
+          "code": "purity",
+          "domain": "chemical",
+          "value_text": "34.0-36.0 %",
+          "unit": "%",
+          "normalized_min": 34.0,
+          "normalized_max": 36.0,
+          "normalized_unit": "%",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "Product Data Sheet",
+          "source_url": "https://www.nouryon.com/globalassets/inriver/resources/pds-perkadox-24-w35-polymer-production-glo-en.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4176,
+          "label_cn": "密度",
+          "label_en": "Density",
+          "code": "density",
+          "domain": "physical",
+          "value_text": "20 °C 1. 0 g/cm³",
+          "unit": "g/cm³",
+          "normalized_min": 0.0,
+          "normalized_max": 0.0,
+          "normalized_unit": "g/cm3",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "Product Data Sheet",
+          "source_url": "https://www.nouryon.com/globalassets/inriver/resources/pds-perkadox-24-w35-polymer-production-glo-en.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4183,
+          "label_cn": "密度",
+          "label_en": "Density",
+          "code": "density",
+          "domain": "physical",
+          "value_text": "20 °C 1.0 g/cm³",
+          "unit": "g/cm³",
+          "normalized_min": 1.0,
+          "normalized_max": 1.0,
+          "normalized_unit": "g/cm3",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "Product Data Sheet",
+          "source_url": "https://www.nouryon.com/globalassets/inriver/resources/pds-perkadox-24-w35-polymer-production-glo-en.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4175,
+          "label_cn": "粘度",
+          "label_en": "Viscosity",
+          "code": "viscosity",
+          "domain": "rheology",
+          "value_text": "20°C 500 mPa.s",
+          "unit": "mPa.s",
+          "normalized_min": 500.0,
+          "normalized_max": 500.0,
+          "normalized_unit": "mPa.s",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "Product Data Sheet",
+          "source_url": "https://www.nouryon.com/globalassets/inriver/resources/pds-perkadox-24-w35-polymer-production-glo-en.pdf",
+          "snippet": null
+        }
+      ]
+    },
+    "1196": {
+      "id": 1196,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "IGM Resins B.V.",
+      "product_name": "Omnirad 1173",
+      "brand": null,
+      "grade": "Omnirad 1173",
+      "product_code": "Omnirad 1173",
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 70.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 85.0,
+      "property_count": 3,
+      "evidence_count": 1,
+      "confidence": 0.9,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "UV吸收波长",
+          "code": "uv_absorption_wavelength",
+          "value_text": "244, 330",
+          "unit": "nm",
+          "confidence": 0.9
+        },
+        {
+          "label_cn": "CAS号",
+          "code": "cas_no",
+          "value_text": "7473-98-5",
+          "unit": "",
+          "confidence": 0.88
+        },
+        {
+          "label_cn": "外观",
+          "code": "appearance",
+          "value_text": "Liquid",
+          "unit": "",
+          "confidence": 0.86
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_product_page"
+        ],
+        "missing_parameter_labels": [
+          "Tg",
+          "粘度",
+          "断裂伸长率",
+          "弯曲强度"
+        ]
+      },
+      "properties": [
+        {
+          "id": 4192,
+          "label_cn": "UV吸收波长",
+          "label_en": "UV absorption wavelength",
+          "code": "uv_absorption_wavelength",
+          "domain": "curing",
+          "value_text": "244, 330",
+          "unit": "nm",
+          "normalized_min": 244.0,
+          "normalized_max": 330.0,
+          "normalized_unit": "nm",
+          "confidence": 0.9,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_product_page",
+          "source_title": "IGM RESINS : RAW MATERIAL FOR UV, LED, EB ENERGY CURING",
+          "source_url": "https://www.igmresins.com/en/product/omnirad_1173",
+          "snippet": null
+        },
+        {
+          "id": 4190,
+          "label_cn": "CAS号",
+          "label_en": "CAS No.",
+          "code": "cas_no",
+          "domain": "identity",
+          "value_text": "7473-98-5",
+          "unit": "",
+          "normalized_min": null,
+          "normalized_max": null,
+          "normalized_unit": "",
+          "confidence": 0.88,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_product_page",
+          "source_title": "IGM RESINS : RAW MATERIAL FOR UV, LED, EB ENERGY CURING",
+          "source_url": "https://www.igmresins.com/en/product/omnirad_1173",
+          "snippet": null
+        },
+        {
+          "id": 4191,
+          "label_cn": "外观",
+          "label_en": "Appearance",
+          "code": "appearance",
+          "domain": "physical",
+          "value_text": "Liquid",
+          "unit": "",
+          "normalized_min": null,
+          "normalized_max": null,
+          "normalized_unit": "",
+          "confidence": 0.86,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_product_page",
+          "source_title": "IGM RESINS : RAW MATERIAL FOR UV, LED, EB ENERGY CURING",
+          "source_url": "https://www.igmresins.com/en/product/omnirad_1173",
+          "snippet": null
+        }
+      ]
+    },
     "1005": {
       "id": 1005,
       "customer_visible_material_type": "raw_material",
@@ -9263,125 +9899,6 @@
           "source_type": "official_tds",
           "source_title": "Product Data Sheet",
           "source_url": "https://www.nouryon.com/globalassets/inriver/resources/pds-trigonox-99-cl75-polymer-production-glo-en.pdf",
-          "snippet": null
-        }
-      ]
-    },
-    "1188": {
-      "id": 1188,
-      "customer_visible_material_type": "raw_material",
-      "company_name": "Nouryon Holding B.V.",
-      "product_name": "Perkadox 24-W35",
-      "brand": null,
-      "grade": "Perkadox 24-W35",
-      "product_code": "Perkadox 24-W35",
-      "category_name": "引发剂",
-      "status": "candidate",
-      "completeness_grade": "C",
-      "data_completeness_score": 70.0,
-      "source_reliability_score": 95.0,
-      "selection_readiness_score": 85.0,
-      "property_count": 3,
-      "evidence_count": 1,
-      "confidence": 0.78,
-      "source_types": [
-        "official_tds"
-      ],
-      "parameters": [
-        {
-          "label_cn": "纯度",
-          "code": "purity",
-          "value_text": "34.0-36.0 %",
-          "unit": "%",
-          "confidence": 0.78
-        },
-        {
-          "label_cn": "粘度",
-          "code": "viscosity",
-          "value_text": "20°C 500 mPa.s",
-          "unit": "mPa.s",
-          "confidence": 0.78
-        },
-        {
-          "label_cn": "密度",
-          "code": "density",
-          "value_text": "20 °C 1. 0 g/cm³",
-          "unit": "g/cm³",
-          "confidence": 0.78
-        }
-      ],
-      "matched_parameter_codes": [],
-      "missing_parameter_codes": [],
-      "failed_parameter_codes": [],
-      "pending_parameter_codes": [],
-      "filter_match_score": null,
-      "evidence_summary": {
-        "official_evidence_count": 1,
-        "source_types": [
-          "official_tds"
-        ],
-        "missing_parameter_labels": [
-          "Tg",
-          "断裂伸长率",
-          "弯曲强度"
-        ]
-      },
-      "properties": [
-        {
-          "id": 4174,
-          "label_cn": "纯度",
-          "label_en": "Purity",
-          "code": "purity",
-          "domain": "chemical",
-          "value_text": "34.0-36.0 %",
-          "unit": "%",
-          "normalized_min": 34.0,
-          "normalized_max": 36.0,
-          "normalized_unit": "%",
-          "confidence": 0.78,
-          "review_status": "confirmed",
-          "evidence_status": "有证据",
-          "source_type": "official_tds",
-          "source_title": "Product Data Sheet",
-          "source_url": "https://www.nouryon.com/globalassets/inriver/resources/pds-perkadox-24-w35-polymer-production-glo-en.pdf",
-          "snippet": null
-        },
-        {
-          "id": 4176,
-          "label_cn": "密度",
-          "label_en": "Density",
-          "code": "density",
-          "domain": "physical",
-          "value_text": "20 °C 1. 0 g/cm³",
-          "unit": "g/cm³",
-          "normalized_min": 0.0,
-          "normalized_max": 0.0,
-          "normalized_unit": "g/cm3",
-          "confidence": 0.78,
-          "review_status": "confirmed",
-          "evidence_status": "有证据",
-          "source_type": "official_tds",
-          "source_title": "Product Data Sheet",
-          "source_url": "https://www.nouryon.com/globalassets/inriver/resources/pds-perkadox-24-w35-polymer-production-glo-en.pdf",
-          "snippet": null
-        },
-        {
-          "id": 4175,
-          "label_cn": "粘度",
-          "label_en": "Viscosity",
-          "code": "viscosity",
-          "domain": "rheology",
-          "value_text": "20°C 500 mPa.s",
-          "unit": "mPa.s",
-          "normalized_min": 500.0,
-          "normalized_max": 500.0,
-          "normalized_unit": "mPa.s",
-          "confidence": 0.78,
-          "review_status": "confirmed",
-          "evidence_status": "有证据",
-          "source_type": "official_tds",
-          "source_title": "Product Data Sheet",
-          "source_url": "https://www.nouryon.com/globalassets/inriver/resources/pds-perkadox-24-w35-polymer-production-glo-en.pdf",
           "snippet": null
         }
       ]
@@ -10075,6 +10592,126 @@
         }
       ]
     },
+    "999": {
+      "id": 999,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "IGM Resins B.V.",
+      "product_name": "Omnirad TPO-L",
+      "brand": null,
+      "grade": "Omnirad TPO-L",
+      "product_code": "Omnirad TPO-L",
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 60.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 75.0,
+      "property_count": 3,
+      "evidence_count": 1,
+      "confidence": 0.9,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "UV吸收波长",
+          "code": "uv_absorption_wavelength",
+          "value_text": "230, 275, 370",
+          "unit": "nm",
+          "confidence": 0.9
+        },
+        {
+          "label_cn": "CAS号",
+          "code": "cas_no",
+          "value_text": "84434-11-7",
+          "unit": "",
+          "confidence": 0.88
+        },
+        {
+          "label_cn": "UV吸收波长",
+          "code": "uv_absorption_wavelength",
+          "value_text": "(nm): 230 , 275, 370 nm",
+          "unit": "nm",
+          "confidence": 0.78
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_product_page"
+        ],
+        "missing_parameter_labels": [
+          "Tg",
+          "粘度",
+          "断裂伸长率",
+          "弯曲强度"
+        ]
+      },
+      "properties": [
+        {
+          "id": 3971,
+          "label_cn": "UV吸收波长",
+          "label_en": "UV absorption wavelength",
+          "code": "uv_absorption_wavelength",
+          "domain": "curing",
+          "value_text": "(nm): 230 , 275, 370 nm",
+          "unit": "nm",
+          "normalized_min": 230.0,
+          "normalized_max": 370.0,
+          "normalized_unit": "nm",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_product_page",
+          "source_title": "IGM RESINS : RAW MATERIAL FOR UV, LED, EB ENERGY CURING",
+          "source_url": "https://www.igmresins.com/en/product/omnirad_tpo_l",
+          "snippet": null
+        },
+        {
+          "id": 4189,
+          "label_cn": "UV吸收波长",
+          "label_en": "UV absorption wavelength",
+          "code": "uv_absorption_wavelength",
+          "domain": "curing",
+          "value_text": "230, 275, 370",
+          "unit": "nm",
+          "normalized_min": 230.0,
+          "normalized_max": 370.0,
+          "normalized_unit": "nm",
+          "confidence": 0.9,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_product_page",
+          "source_title": "IGM RESINS : RAW MATERIAL FOR UV, LED, EB ENERGY CURING",
+          "source_url": "https://www.igmresins.com/en/product/omnirad_tpo_l",
+          "snippet": null
+        },
+        {
+          "id": 4188,
+          "label_cn": "CAS号",
+          "label_en": "CAS No.",
+          "code": "cas_no",
+          "domain": "identity",
+          "value_text": "84434-11-7",
+          "unit": "",
+          "normalized_min": null,
+          "normalized_max": null,
+          "normalized_unit": "",
+          "confidence": 0.88,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_product_page",
+          "source_title": "IGM RESINS : RAW MATERIAL FOR UV, LED, EB ENERGY CURING",
+          "source_url": "https://www.igmresins.com/en/product/omnirad_tpo_l",
+          "snippet": null
+        }
+      ]
+    },
     "993": {
       "id": 993,
       "customer_visible_material_type": "raw_material",
@@ -10637,6 +11274,100 @@
         }
       ]
     },
+    "1195": {
+      "id": 1195,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "IGM Resins B.V.",
+      "product_name": "Omnirad 184",
+      "brand": null,
+      "grade": "Omnirad 184",
+      "product_code": "Omnirad 184",
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 60.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 75.0,
+      "property_count": 2,
+      "evidence_count": 1,
+      "confidence": 0.9,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "UV吸收波长",
+          "code": "uv_absorption_wavelength",
+          "value_text": "243, 331",
+          "unit": "nm",
+          "confidence": 0.9
+        },
+        {
+          "label_cn": "CAS号",
+          "code": "cas_no",
+          "value_text": "947-19-3",
+          "unit": "",
+          "confidence": 0.88
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_product_page"
+        ],
+        "missing_parameter_labels": [
+          "Tg",
+          "粘度",
+          "断裂伸长率",
+          "弯曲强度"
+        ]
+      },
+      "properties": [
+        {
+          "id": 4187,
+          "label_cn": "UV吸收波长",
+          "label_en": "UV absorption wavelength",
+          "code": "uv_absorption_wavelength",
+          "domain": "curing",
+          "value_text": "243, 331",
+          "unit": "nm",
+          "normalized_min": 243.0,
+          "normalized_max": 331.0,
+          "normalized_unit": "nm",
+          "confidence": 0.9,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_product_page",
+          "source_title": "IGM RESINS : RAW MATERIAL FOR UV, LED, EB ENERGY CURING",
+          "source_url": "https://www.igmresins.com/en/product/omnirad_184",
+          "snippet": null
+        },
+        {
+          "id": 4186,
+          "label_cn": "CAS号",
+          "label_en": "CAS No.",
+          "code": "cas_no",
+          "domain": "identity",
+          "value_text": "947-19-3",
+          "unit": "",
+          "normalized_min": null,
+          "normalized_max": null,
+          "normalized_unit": "",
+          "confidence": 0.88,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_product_page",
+          "source_title": "IGM RESINS : RAW MATERIAL FOR UV, LED, EB ENERGY CURING",
+          "source_url": "https://www.igmresins.com/en/product/omnirad_184",
+          "snippet": null
+        }
+      ]
+    },
     "1006": {
       "id": 1006,
       "customer_visible_material_type": "raw_material",
@@ -10821,6 +11552,194 @@
           "source_type": "official_product_page",
           "source_title": "Omnirad 500",
           "source_url": "https://www.igmresins.com/en/product/omnirad_500",
+          "snippet": null
+        }
+      ]
+    },
+    "1194": {
+      "id": 1194,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "IGM Resins B.V.",
+      "product_name": "Omnirad 819",
+      "brand": null,
+      "grade": "Omnirad 819",
+      "product_code": "Omnirad 819",
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 60.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 75.0,
+      "property_count": 2,
+      "evidence_count": 1,
+      "confidence": 0.9,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "UV吸收波长",
+          "code": "uv_absorption_wavelength",
+          "value_text": "237, 275, 380",
+          "unit": "nm",
+          "confidence": 0.9
+        },
+        {
+          "label_cn": "CAS号",
+          "code": "cas_no",
+          "value_text": "162881-26-7",
+          "unit": "",
+          "confidence": 0.88
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_product_page"
+        ],
+        "missing_parameter_labels": [
+          "Tg",
+          "粘度",
+          "断裂伸长率",
+          "弯曲强度"
+        ]
+      },
+      "properties": [
+        {
+          "id": 4185,
+          "label_cn": "UV吸收波长",
+          "label_en": "UV absorption wavelength",
+          "code": "uv_absorption_wavelength",
+          "domain": "curing",
+          "value_text": "237, 275, 380",
+          "unit": "nm",
+          "normalized_min": 237.0,
+          "normalized_max": 380.0,
+          "normalized_unit": "nm",
+          "confidence": 0.9,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_product_page",
+          "source_title": "IGM RESINS : RAW MATERIAL FOR UV, LED, EB ENERGY CURING",
+          "source_url": "https://www.igmresins.com/en/product/omnirad_819",
+          "snippet": null
+        },
+        {
+          "id": 4184,
+          "label_cn": "CAS号",
+          "label_en": "CAS No.",
+          "code": "cas_no",
+          "domain": "identity",
+          "value_text": "162881-26-7",
+          "unit": "",
+          "normalized_min": null,
+          "normalized_max": null,
+          "normalized_unit": "",
+          "confidence": 0.88,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_product_page",
+          "source_title": "IGM RESINS : RAW MATERIAL FOR UV, LED, EB ENERGY CURING",
+          "source_url": "https://www.igmresins.com/en/product/omnirad_819",
+          "snippet": null
+        }
+      ]
+    },
+    "1197": {
+      "id": 1197,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "IGM Resins B.V.",
+      "product_name": "Omnirad 907",
+      "brand": null,
+      "grade": "Omnirad 907",
+      "product_code": "Omnirad 907",
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 60.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 75.0,
+      "property_count": 2,
+      "evidence_count": 1,
+      "confidence": 0.9,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "UV吸收波长",
+          "code": "uv_absorption_wavelength",
+          "value_text": "230, 303",
+          "unit": "nm",
+          "confidence": 0.9
+        },
+        {
+          "label_cn": "CAS号",
+          "code": "cas_no",
+          "value_text": "71868-10-5",
+          "unit": "",
+          "confidence": 0.88
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_product_page"
+        ],
+        "missing_parameter_labels": [
+          "Tg",
+          "粘度",
+          "断裂伸长率",
+          "弯曲强度"
+        ]
+      },
+      "properties": [
+        {
+          "id": 4194,
+          "label_cn": "UV吸收波长",
+          "label_en": "UV absorption wavelength",
+          "code": "uv_absorption_wavelength",
+          "domain": "curing",
+          "value_text": "230, 303",
+          "unit": "nm",
+          "normalized_min": 230.0,
+          "normalized_max": 303.0,
+          "normalized_unit": "nm",
+          "confidence": 0.9,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_product_page",
+          "source_title": "IGM RESINS : RAW MATERIAL FOR UV, LED, EB ENERGY CURING",
+          "source_url": "https://www.igmresins.com/en/product/omnirad_907",
+          "snippet": null
+        },
+        {
+          "id": 4193,
+          "label_cn": "CAS号",
+          "label_en": "CAS No.",
+          "code": "cas_no",
+          "domain": "identity",
+          "value_text": "71868-10-5",
+          "unit": "",
+          "normalized_min": null,
+          "normalized_max": null,
+          "normalized_unit": "",
+          "confidence": 0.88,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_product_page",
+          "source_title": "IGM RESINS : RAW MATERIAL FOR UV, LED, EB ENERGY CURING",
+          "source_url": "https://www.igmresins.com/en/product/omnirad_907",
           "snippet": null
         }
       ]
@@ -12373,6 +13292,142 @@
         }
       ]
     },
+    "1201": {
+      "id": 1201,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "BYK-Chemie GmbH",
+      "product_name": "BYK-333",
+      "brand": null,
+      "grade": "BYK-333",
+      "product_code": "BYK-333",
+      "category_name": "助剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 50.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 65.0,
+      "property_count": 1,
+      "evidence_count": 1,
+      "confidence": 0.9,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "保质期",
+          "code": "shelf_life",
+          "value_text": "60",
+          "unit": "month",
+          "confidence": 0.9
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_product_page"
+        ],
+        "missing_parameter_labels": [
+          "Tg",
+          "粘度",
+          "断裂伸长率",
+          "弯曲强度"
+        ]
+      },
+      "properties": [
+        {
+          "id": 4198,
+          "label_cn": "保质期",
+          "label_en": "Shelf life",
+          "code": "shelf_life",
+          "domain": "safety",
+          "value_text": "60",
+          "unit": "month",
+          "normalized_min": 60.0,
+          "normalized_max": 60.0,
+          "normalized_unit": "month",
+          "confidence": 0.9,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_product_page",
+          "source_title": "BYK-333 - Silicone-containing surface additive",
+          "source_url": "https://www.byk.com/en/products/additive-guide/byk-333",
+          "snippet": null
+        }
+      ]
+    },
+    "1202": {
+      "id": 1202,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "BYK-Chemie GmbH",
+      "product_name": "BYK-378",
+      "brand": null,
+      "grade": "BYK-378",
+      "product_code": "BYK-378",
+      "category_name": "助剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 50.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 65.0,
+      "property_count": 1,
+      "evidence_count": 1,
+      "confidence": 0.9,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "保质期",
+          "code": "shelf_life",
+          "value_text": "36",
+          "unit": "month",
+          "confidence": 0.9
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_product_page"
+        ],
+        "missing_parameter_labels": [
+          "Tg",
+          "粘度",
+          "断裂伸长率",
+          "弯曲强度"
+        ]
+      },
+      "properties": [
+        {
+          "id": 4199,
+          "label_cn": "保质期",
+          "label_en": "Shelf life",
+          "code": "shelf_life",
+          "domain": "safety",
+          "value_text": "36",
+          "unit": "month",
+          "normalized_min": 36.0,
+          "normalized_max": 36.0,
+          "normalized_unit": "month",
+          "confidence": 0.9,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_product_page",
+          "source_title": "BYK-378 - Surface additive, radiation-curable systems",
+          "source_url": "https://www.byk.com/en/products/additive-guide/byk-378",
+          "snippet": null
+        }
+      ]
+    },
     "1191": {
       "id": 1191,
       "customer_visible_material_type": "raw_material",
@@ -12505,6 +13560,210 @@
           "source_type": "official_product_page",
           "source_title": "DISPERBYK-161 - Wetting and dispersing additive",
           "source_url": "https://www.byk.com/en/products/additive-guide/disperbyk-161",
+          "snippet": null
+        }
+      ]
+    },
+    "1198": {
+      "id": 1198,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "BYK-Chemie GmbH",
+      "product_name": "DISPERBYK-180",
+      "brand": null,
+      "grade": "DISPERBYK-180",
+      "product_code": "DISPERBYK-180",
+      "category_name": "助剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 50.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 65.0,
+      "property_count": 1,
+      "evidence_count": 1,
+      "confidence": 0.9,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "保质期",
+          "code": "shelf_life",
+          "value_text": "60",
+          "unit": "month",
+          "confidence": 0.9
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_product_page"
+        ],
+        "missing_parameter_labels": [
+          "Tg",
+          "粘度",
+          "断裂伸长率",
+          "弯曲强度"
+        ]
+      },
+      "properties": [
+        {
+          "id": 4195,
+          "label_cn": "保质期",
+          "label_en": "Shelf life",
+          "code": "shelf_life",
+          "domain": "safety",
+          "value_text": "60",
+          "unit": "month",
+          "normalized_min": 60.0,
+          "normalized_max": 60.0,
+          "normalized_unit": "month",
+          "confidence": 0.9,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_product_page",
+          "source_title": "DISPERBYK-180 - Wetting and dispersing additive",
+          "source_url": "https://www.byk.com/en/products/additive-guide/disperbyk-180",
+          "snippet": null
+        }
+      ]
+    },
+    "1199": {
+      "id": 1199,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "BYK-Chemie GmbH",
+      "product_name": "DISPERBYK-190",
+      "brand": null,
+      "grade": "DISPERBYK-190",
+      "product_code": "DISPERBYK-190",
+      "category_name": "助剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 50.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 65.0,
+      "property_count": 1,
+      "evidence_count": 1,
+      "confidence": 0.9,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "保质期",
+          "code": "shelf_life",
+          "value_text": "60",
+          "unit": "month",
+          "confidence": 0.9
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_product_page"
+        ],
+        "missing_parameter_labels": [
+          "Tg",
+          "粘度",
+          "断裂伸长率",
+          "弯曲强度"
+        ]
+      },
+      "properties": [
+        {
+          "id": 4196,
+          "label_cn": "保质期",
+          "label_en": "Shelf life",
+          "code": "shelf_life",
+          "domain": "safety",
+          "value_text": "60",
+          "unit": "month",
+          "normalized_min": 60.0,
+          "normalized_max": 60.0,
+          "normalized_unit": "month",
+          "confidence": 0.9,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_product_page",
+          "source_title": "DISPERBYK-190 - Wetting and dispersing additive, aqueous systems",
+          "source_url": "https://www.byk.com/en/products/additive-guide/disperbyk-190",
+          "snippet": null
+        }
+      ]
+    },
+    "1200": {
+      "id": 1200,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "BYK-Chemie GmbH",
+      "product_name": "DISPERBYK-2013",
+      "brand": null,
+      "grade": "DISPERBYK-2013",
+      "product_code": "DISPERBYK-2013",
+      "category_name": "助剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 50.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 65.0,
+      "property_count": 1,
+      "evidence_count": 1,
+      "confidence": 0.9,
+      "source_types": [
+        "official_product_page"
+      ],
+      "parameters": [
+        {
+          "label_cn": "保质期",
+          "code": "shelf_life",
+          "value_text": "36",
+          "unit": "month",
+          "confidence": 0.9
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_product_page"
+        ],
+        "missing_parameter_labels": [
+          "Tg",
+          "粘度",
+          "断裂伸长率",
+          "弯曲强度"
+        ]
+      },
+      "properties": [
+        {
+          "id": 4197,
+          "label_cn": "保质期",
+          "label_en": "Shelf life",
+          "code": "shelf_life",
+          "domain": "safety",
+          "value_text": "36",
+          "unit": "month",
+          "normalized_min": 36.0,
+          "normalized_max": 36.0,
+          "normalized_unit": "month",
+          "confidence": 0.9,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_product_page",
+          "source_title": "DISPERBYK-2013 - Wetting and dispersing additive",
+          "source_url": "https://www.byk.com/en/products/additive-guide/disperbyk-2013",
           "snippet": null
         }
       ]
@@ -12845,74 +14104,6 @@
           "source_type": "official_product_page",
           "source_title": "IGM RESINS : RAW MATERIAL FOR UV, LED, EB ENERGY CURING",
           "source_url": "https://www.igmresins.com/en/product/omnirad_ombb",
-          "snippet": null
-        }
-      ]
-    },
-    "999": {
-      "id": 999,
-      "customer_visible_material_type": "raw_material",
-      "company_name": "IGM Resins B.V.",
-      "product_name": "Omnirad TPO-L",
-      "brand": null,
-      "grade": "Omnirad TPO-L",
-      "product_code": "Omnirad TPO-L",
-      "category_name": "引发剂",
-      "status": "candidate",
-      "completeness_grade": "C",
-      "data_completeness_score": 50.0,
-      "source_reliability_score": 95.0,
-      "selection_readiness_score": 65.0,
-      "property_count": 1,
-      "evidence_count": 1,
-      "confidence": 0.78,
-      "source_types": [
-        "official_product_page"
-      ],
-      "parameters": [
-        {
-          "label_cn": "UV吸收波长",
-          "code": "uv_absorption_wavelength",
-          "value_text": "(nm): 230 , 275, 370 nm",
-          "unit": "nm",
-          "confidence": 0.78
-        }
-      ],
-      "matched_parameter_codes": [],
-      "missing_parameter_codes": [],
-      "failed_parameter_codes": [],
-      "pending_parameter_codes": [],
-      "filter_match_score": null,
-      "evidence_summary": {
-        "official_evidence_count": 1,
-        "source_types": [
-          "official_product_page"
-        ],
-        "missing_parameter_labels": [
-          "Tg",
-          "粘度",
-          "断裂伸长率",
-          "弯曲强度"
-        ]
-      },
-      "properties": [
-        {
-          "id": 3971,
-          "label_cn": "UV吸收波长",
-          "label_en": "UV absorption wavelength",
-          "code": "uv_absorption_wavelength",
-          "domain": "curing",
-          "value_text": "(nm): 230 , 275, 370 nm",
-          "unit": "nm",
-          "normalized_min": 230.0,
-          "normalized_max": 370.0,
-          "normalized_unit": "nm",
-          "confidence": 0.78,
-          "review_status": "confirmed",
-          "evidence_status": "有证据",
-          "source_type": "official_product_page",
-          "source_title": "IGM RESINS : RAW MATERIAL FOR UV, LED, EB ENERGY CURING",
-          "source_url": "https://www.igmresins.com/en/product/omnirad_tpo_l",
           "snippet": null
         }
       ]
