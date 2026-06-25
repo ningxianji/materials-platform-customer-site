@@ -1,10 +1,10 @@
 {
   "schema_version": "materials-public-catalog-v1",
-  "generated_at": "2026-06-25T06:10:52.373398+00:00",
+  "generated_at": "2026-06-25T06:51:26.008934+00:00",
   "summary": {
-    "product_count": 212,
-    "property_value_count": 248,
-    "official_evidence_count": 212
+    "product_count": 217,
+    "property_value_count": 263,
+    "official_evidence_count": 217
   },
   "products": [
     {
@@ -397,6 +397,251 @@
           "code": "uv_absorption_wavelength",
           "value_text": "(nm): 280 , 325 nm",
           "unit": "nm",
+          "confidence": 0.78
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
+    {
+      "id": 1184,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "Nouryon Holding B.V.",
+      "product_name": "pds trigonox 99 cl75 polymer production glo en",
+      "brand": null,
+      "grade": null,
+      "product_code": null,
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 70.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 85.0,
+      "property_count": 3,
+      "evidence_count": 1,
+      "confidence": 0.78,
+      "source_types": [
+        "official_tds"
+      ],
+      "parameters": [
+        {
+          "label_cn": "纯度",
+          "code": "purity",
+          "value_text": "74.0-76.0 %",
+          "unit": "%",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "密度",
+          "code": "density",
+          "value_text": "-10°C 0.962 g/cm³",
+          "unit": "g/cm³",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "粘度",
+          "code": "viscosity",
+          "value_text": "-10°C 74.6 mPa.s",
+          "unit": "mPa.s",
+          "confidence": 0.78
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
+    {
+      "id": 1188,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "Nouryon Holding B.V.",
+      "product_name": "Perkadox 24-W35",
+      "brand": null,
+      "grade": "Perkadox 24-W35",
+      "product_code": "Perkadox 24-W35",
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 70.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 85.0,
+      "property_count": 3,
+      "evidence_count": 1,
+      "confidence": 0.78,
+      "source_types": [
+        "official_tds"
+      ],
+      "parameters": [
+        {
+          "label_cn": "纯度",
+          "code": "purity",
+          "value_text": "34.0-36.0 %",
+          "unit": "%",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "粘度",
+          "code": "viscosity",
+          "value_text": "20°C 500 mPa.s",
+          "unit": "mPa.s",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "密度",
+          "code": "density",
+          "value_text": "20 °C 1. 0 g/cm³",
+          "unit": "g/cm³",
+          "confidence": 0.78
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
+    {
+      "id": 1186,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "Nouryon Holding B.V.",
+      "product_name": "Trigonox 141",
+      "brand": null,
+      "grade": "Trigonox 141",
+      "product_code": "Trigonox 141",
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 70.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 85.0,
+      "property_count": 3,
+      "evidence_count": 1,
+      "confidence": 0.78,
+      "source_types": [
+        "official_tds"
+      ],
+      "parameters": [
+        {
+          "label_cn": "纯度",
+          "code": "purity",
+          "value_text": "≥ 92.0 %",
+          "unit": "%",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "密度",
+          "code": "density",
+          "value_text": "20 °C 0.956 g/cm³",
+          "unit": "g/cm³",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "粘度",
+          "code": "viscosity",
+          "value_text": "20 °C 80 mPa.s",
+          "unit": "mPa.s",
+          "confidence": 0.78
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
+    {
+      "id": 1187,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "Nouryon Holding B.V.",
+      "product_name": "Trigonox 21S",
+      "brand": null,
+      "grade": "Trigonox 21S",
+      "product_code": "Trigonox 21S",
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 70.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 85.0,
+      "property_count": 3,
+      "evidence_count": 1,
+      "confidence": 0.78,
+      "source_types": [
+        "official_tds"
+      ],
+      "parameters": [
+        {
+          "label_cn": "纯度",
+          "code": "purity",
+          "value_text": "≥ 97.0 %",
+          "unit": "%",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "密度",
+          "code": "density",
+          "value_text": "20°C 0.900 g/cm³",
+          "unit": "g/cm³",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "粘度",
+          "code": "viscosity",
+          "value_text": "20°C 4.3 mPa.s",
+          "unit": "mPa.s",
+          "confidence": 0.78
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
+    {
+      "id": 1185,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "Nouryon Holding B.V.",
+      "product_name": "Trigonox 99-W50",
+      "brand": null,
+      "grade": "Trigonox 99-W50",
+      "product_code": "Trigonox 99-W50",
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 70.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 85.0,
+      "property_count": 3,
+      "evidence_count": 1,
+      "confidence": 0.78,
+      "source_types": [
+        "official_tds"
+      ],
+      "parameters": [
+        {
+          "label_cn": "纯度",
+          "code": "purity",
+          "value_text": "49.0-51.0 %",
+          "unit": "%",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "粘度",
+          "code": "viscosity",
+          "value_text": "10°C (Brookfield LVT, spindle #3, 5 rpm) 200-2000 mPa.s",
+          "unit": "mPa.s",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "密度",
+          "code": "density",
+          "value_text": "0 °C 0.980 g/cm³",
+          "unit": "g/cm³",
           "confidence": 0.78
         }
       ],
@@ -8717,6 +8962,601 @@
           "source_type": "official_product_page",
           "source_title": "IGM RESINS : RAW MATERIAL FOR UV, LED, EB ENERGY CURING",
           "source_url": "https://www.igmresins.com/en/product/omnirad_2509",
+          "snippet": null
+        }
+      ]
+    },
+    "1184": {
+      "id": 1184,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "Nouryon Holding B.V.",
+      "product_name": "pds trigonox 99 cl75 polymer production glo en",
+      "brand": null,
+      "grade": null,
+      "product_code": null,
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 70.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 85.0,
+      "property_count": 3,
+      "evidence_count": 1,
+      "confidence": 0.78,
+      "source_types": [
+        "official_tds"
+      ],
+      "parameters": [
+        {
+          "label_cn": "纯度",
+          "code": "purity",
+          "value_text": "74.0-76.0 %",
+          "unit": "%",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "密度",
+          "code": "density",
+          "value_text": "-10°C 0.962 g/cm³",
+          "unit": "g/cm³",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "粘度",
+          "code": "viscosity",
+          "value_text": "-10°C 74.6 mPa.s",
+          "unit": "mPa.s",
+          "confidence": 0.78
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_tds"
+        ],
+        "missing_parameter_labels": [
+          "Tg",
+          "断裂伸长率",
+          "弯曲强度"
+        ]
+      },
+      "properties": [
+        {
+          "id": 4162,
+          "label_cn": "纯度",
+          "label_en": "Purity",
+          "code": "purity",
+          "domain": "chemical",
+          "value_text": "74.0-76.0 %",
+          "unit": "%",
+          "normalized_min": 74.0,
+          "normalized_max": 76.0,
+          "normalized_unit": "%",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "Product Data Sheet",
+          "source_url": "https://www.nouryon.com/globalassets/inriver/resources/pds-trigonox-99-cl75-polymer-production-glo-en.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4163,
+          "label_cn": "密度",
+          "label_en": "Density",
+          "code": "density",
+          "domain": "physical",
+          "value_text": "-10°C 0.962 g/cm³",
+          "unit": "g/cm³",
+          "normalized_min": 0.962,
+          "normalized_max": 0.962,
+          "normalized_unit": "g/cm3",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "Product Data Sheet",
+          "source_url": "https://www.nouryon.com/globalassets/inriver/resources/pds-trigonox-99-cl75-polymer-production-glo-en.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4164,
+          "label_cn": "粘度",
+          "label_en": "Viscosity",
+          "code": "viscosity",
+          "domain": "rheology",
+          "value_text": "-10°C 74.6 mPa.s",
+          "unit": "mPa.s",
+          "normalized_min": 74.6,
+          "normalized_max": 74.6,
+          "normalized_unit": "mPa.s",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "Product Data Sheet",
+          "source_url": "https://www.nouryon.com/globalassets/inriver/resources/pds-trigonox-99-cl75-polymer-production-glo-en.pdf",
+          "snippet": null
+        }
+      ]
+    },
+    "1188": {
+      "id": 1188,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "Nouryon Holding B.V.",
+      "product_name": "Perkadox 24-W35",
+      "brand": null,
+      "grade": "Perkadox 24-W35",
+      "product_code": "Perkadox 24-W35",
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 70.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 85.0,
+      "property_count": 3,
+      "evidence_count": 1,
+      "confidence": 0.78,
+      "source_types": [
+        "official_tds"
+      ],
+      "parameters": [
+        {
+          "label_cn": "纯度",
+          "code": "purity",
+          "value_text": "34.0-36.0 %",
+          "unit": "%",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "粘度",
+          "code": "viscosity",
+          "value_text": "20°C 500 mPa.s",
+          "unit": "mPa.s",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "密度",
+          "code": "density",
+          "value_text": "20 °C 1. 0 g/cm³",
+          "unit": "g/cm³",
+          "confidence": 0.78
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_tds"
+        ],
+        "missing_parameter_labels": [
+          "Tg",
+          "断裂伸长率",
+          "弯曲强度"
+        ]
+      },
+      "properties": [
+        {
+          "id": 4174,
+          "label_cn": "纯度",
+          "label_en": "Purity",
+          "code": "purity",
+          "domain": "chemical",
+          "value_text": "34.0-36.0 %",
+          "unit": "%",
+          "normalized_min": 34.0,
+          "normalized_max": 36.0,
+          "normalized_unit": "%",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "Product Data Sheet",
+          "source_url": "https://www.nouryon.com/globalassets/inriver/resources/pds-perkadox-24-w35-polymer-production-glo-en.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4176,
+          "label_cn": "密度",
+          "label_en": "Density",
+          "code": "density",
+          "domain": "physical",
+          "value_text": "20 °C 1. 0 g/cm³",
+          "unit": "g/cm³",
+          "normalized_min": 0.0,
+          "normalized_max": 0.0,
+          "normalized_unit": "g/cm3",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "Product Data Sheet",
+          "source_url": "https://www.nouryon.com/globalassets/inriver/resources/pds-perkadox-24-w35-polymer-production-glo-en.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4175,
+          "label_cn": "粘度",
+          "label_en": "Viscosity",
+          "code": "viscosity",
+          "domain": "rheology",
+          "value_text": "20°C 500 mPa.s",
+          "unit": "mPa.s",
+          "normalized_min": 500.0,
+          "normalized_max": 500.0,
+          "normalized_unit": "mPa.s",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "Product Data Sheet",
+          "source_url": "https://www.nouryon.com/globalassets/inriver/resources/pds-perkadox-24-w35-polymer-production-glo-en.pdf",
+          "snippet": null
+        }
+      ]
+    },
+    "1186": {
+      "id": 1186,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "Nouryon Holding B.V.",
+      "product_name": "Trigonox 141",
+      "brand": null,
+      "grade": "Trigonox 141",
+      "product_code": "Trigonox 141",
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 70.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 85.0,
+      "property_count": 3,
+      "evidence_count": 1,
+      "confidence": 0.78,
+      "source_types": [
+        "official_tds"
+      ],
+      "parameters": [
+        {
+          "label_cn": "纯度",
+          "code": "purity",
+          "value_text": "≥ 92.0 %",
+          "unit": "%",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "密度",
+          "code": "density",
+          "value_text": "20 °C 0.956 g/cm³",
+          "unit": "g/cm³",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "粘度",
+          "code": "viscosity",
+          "value_text": "20 °C 80 mPa.s",
+          "unit": "mPa.s",
+          "confidence": 0.78
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_tds"
+        ],
+        "missing_parameter_labels": [
+          "Tg",
+          "断裂伸长率",
+          "弯曲强度"
+        ]
+      },
+      "properties": [
+        {
+          "id": 4168,
+          "label_cn": "纯度",
+          "label_en": "Purity",
+          "code": "purity",
+          "domain": "chemical",
+          "value_text": "≥ 92.0 %",
+          "unit": "%",
+          "normalized_min": 92.0,
+          "normalized_max": null,
+          "normalized_unit": "%",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "Product Data Sheet",
+          "source_url": "https://www.nouryon.com/globalassets/inriver/resources/pds-trigonox-141-polymer-production-glo-en.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4169,
+          "label_cn": "密度",
+          "label_en": "Density",
+          "code": "density",
+          "domain": "physical",
+          "value_text": "20 °C 0.956 g/cm³",
+          "unit": "g/cm³",
+          "normalized_min": 0.956,
+          "normalized_max": 0.956,
+          "normalized_unit": "g/cm3",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "Product Data Sheet",
+          "source_url": "https://www.nouryon.com/globalassets/inriver/resources/pds-trigonox-141-polymer-production-glo-en.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4170,
+          "label_cn": "粘度",
+          "label_en": "Viscosity",
+          "code": "viscosity",
+          "domain": "rheology",
+          "value_text": "20 °C 80 mPa.s",
+          "unit": "mPa.s",
+          "normalized_min": 80.0,
+          "normalized_max": 80.0,
+          "normalized_unit": "mPa.s",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "Product Data Sheet",
+          "source_url": "https://www.nouryon.com/globalassets/inriver/resources/pds-trigonox-141-polymer-production-glo-en.pdf",
+          "snippet": null
+        }
+      ]
+    },
+    "1187": {
+      "id": 1187,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "Nouryon Holding B.V.",
+      "product_name": "Trigonox 21S",
+      "brand": null,
+      "grade": "Trigonox 21S",
+      "product_code": "Trigonox 21S",
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 70.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 85.0,
+      "property_count": 3,
+      "evidence_count": 1,
+      "confidence": 0.78,
+      "source_types": [
+        "official_tds"
+      ],
+      "parameters": [
+        {
+          "label_cn": "纯度",
+          "code": "purity",
+          "value_text": "≥ 97.0 %",
+          "unit": "%",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "密度",
+          "code": "density",
+          "value_text": "20°C 0.900 g/cm³",
+          "unit": "g/cm³",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "粘度",
+          "code": "viscosity",
+          "value_text": "20°C 4.3 mPa.s",
+          "unit": "mPa.s",
+          "confidence": 0.78
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_tds"
+        ],
+        "missing_parameter_labels": [
+          "Tg",
+          "断裂伸长率",
+          "弯曲强度"
+        ]
+      },
+      "properties": [
+        {
+          "id": 4171,
+          "label_cn": "纯度",
+          "label_en": "Purity",
+          "code": "purity",
+          "domain": "chemical",
+          "value_text": "≥ 97.0 %",
+          "unit": "%",
+          "normalized_min": 97.0,
+          "normalized_max": null,
+          "normalized_unit": "%",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "Product Data Sheet",
+          "source_url": "https://www.nouryon.com/globalassets/inriver/resources/pds-trigonox-21s-polymer-production-row-en.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4172,
+          "label_cn": "密度",
+          "label_en": "Density",
+          "code": "density",
+          "domain": "physical",
+          "value_text": "20°C 0.900 g/cm³",
+          "unit": "g/cm³",
+          "normalized_min": 0.9,
+          "normalized_max": 0.9,
+          "normalized_unit": "g/cm3",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "Product Data Sheet",
+          "source_url": "https://www.nouryon.com/globalassets/inriver/resources/pds-trigonox-21s-polymer-production-row-en.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4173,
+          "label_cn": "粘度",
+          "label_en": "Viscosity",
+          "code": "viscosity",
+          "domain": "rheology",
+          "value_text": "20°C 4.3 mPa.s",
+          "unit": "mPa.s",
+          "normalized_min": 4.3,
+          "normalized_max": 4.3,
+          "normalized_unit": "mPa.s",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "Product Data Sheet",
+          "source_url": "https://www.nouryon.com/globalassets/inriver/resources/pds-trigonox-21s-polymer-production-row-en.pdf",
+          "snippet": null
+        }
+      ]
+    },
+    "1185": {
+      "id": 1185,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "Nouryon Holding B.V.",
+      "product_name": "Trigonox 99-W50",
+      "brand": null,
+      "grade": "Trigonox 99-W50",
+      "product_code": "Trigonox 99-W50",
+      "category_name": "引发剂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 70.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 85.0,
+      "property_count": 3,
+      "evidence_count": 1,
+      "confidence": 0.78,
+      "source_types": [
+        "official_tds"
+      ],
+      "parameters": [
+        {
+          "label_cn": "纯度",
+          "code": "purity",
+          "value_text": "49.0-51.0 %",
+          "unit": "%",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "粘度",
+          "code": "viscosity",
+          "value_text": "10°C (Brookfield LVT, spindle #3, 5 rpm) 200-2000 mPa.s",
+          "unit": "mPa.s",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "密度",
+          "code": "density",
+          "value_text": "0 °C 0.980 g/cm³",
+          "unit": "g/cm³",
+          "confidence": 0.78
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_tds"
+        ],
+        "missing_parameter_labels": [
+          "Tg",
+          "断裂伸长率",
+          "弯曲强度"
+        ]
+      },
+      "properties": [
+        {
+          "id": 4165,
+          "label_cn": "纯度",
+          "label_en": "Purity",
+          "code": "purity",
+          "domain": "chemical",
+          "value_text": "49.0-51.0 %",
+          "unit": "%",
+          "normalized_min": 49.0,
+          "normalized_max": 51.0,
+          "normalized_unit": "%",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "Product Data Sheet",
+          "source_url": "https://www.nouryon.com/globalassets/inriver/resources/pds-trigonox-99-w50-polymer-production-glo-en.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4167,
+          "label_cn": "密度",
+          "label_en": "Density",
+          "code": "density",
+          "domain": "physical",
+          "value_text": "0 °C 0.980 g/cm³",
+          "unit": "g/cm³",
+          "normalized_min": 0.98,
+          "normalized_max": 0.98,
+          "normalized_unit": "g/cm3",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "Product Data Sheet",
+          "source_url": "https://www.nouryon.com/globalassets/inriver/resources/pds-trigonox-99-w50-polymer-production-glo-en.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4166,
+          "label_cn": "粘度",
+          "label_en": "Viscosity",
+          "code": "viscosity",
+          "domain": "rheology",
+          "value_text": "10°C (Brookfield LVT, spindle #3, 5 rpm) 200-2000 mPa.s",
+          "unit": "mPa.s",
+          "normalized_min": 200.0,
+          "normalized_max": 2000.0,
+          "normalized_unit": "mPa.s",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "Product Data Sheet",
+          "source_url": "https://www.nouryon.com/globalassets/inriver/resources/pds-trigonox-99-w50-polymer-production-glo-en.pdf",
           "snippet": null
         }
       ]
