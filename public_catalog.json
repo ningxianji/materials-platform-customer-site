@@ -1,12 +1,257 @@
 {
   "schema_version": "materials-public-catalog-v1",
-  "generated_at": "2026-06-25T07:43:21.826530+00:00",
+  "generated_at": "2026-06-25T08:27:27.185749+00:00",
   "summary": {
-    "product_count": 231,
-    "property_value_count": 286,
-    "official_evidence_count": 231
+    "product_count": 234,
+    "property_value_count": 311,
+    "official_evidence_count": 234
   },
   "products": [
+    {
+      "id": 1203,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "allnex GmbH",
+      "product_name": "EBECRYL 160",
+      "brand": null,
+      "grade": "EBECRYL 160",
+      "product_code": "EBECRYL 160",
+      "category_name": "UV单体",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 100.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 100.0,
+      "property_count": 9,
+      "evidence_count": 1,
+      "confidence": 0.78,
+      "source_types": [
+        "official_tds"
+      ],
+      "parameters": [
+        {
+          "label_cn": "外观",
+          "code": "appearance",
+          "value_text": "clearliquid",
+          "unit": "",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "粘度",
+          "code": "viscosity",
+          "value_text": "at25°C,mPa.s 60-80",
+          "unit": "mPa.s",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "酸值",
+          "code": "acid_value",
+          "value_text": "mgKOH/g max.0.4",
+          "unit": "mgKOH/g",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "密度",
+          "code": "density",
+          "value_text": "g/cm3 1.09",
+          "unit": "g/cm3",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "官能度",
+          "code": "functionality",
+          "value_text": "theoretical 3",
+          "unit": "",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "拉伸强度",
+          "code": "tensile_strength",
+          "value_text": "psi(MPa) 2450(17)",
+          "unit": "MPa",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "断裂伸长率",
+          "code": "elongation_at_break",
+          "value_text": "% 1",
+          "unit": "%",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "拉伸模量",
+          "code": "tensile_modulus",
+          "value_text": "psi(MPa) 278500(1920)",
+          "unit": "MPa",
+          "confidence": 0.78
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
+    {
+      "id": 1205,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "allnex GmbH",
+      "product_name": "EBECRYL 8210",
+      "brand": null,
+      "grade": "EBECRYL 8210",
+      "product_code": "EBECRYL 8210",
+      "category_name": "UV树脂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 100.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 100.0,
+      "property_count": 9,
+      "evidence_count": 1,
+      "confidence": 0.78,
+      "source_types": [
+        "official_tds"
+      ],
+      "parameters": [
+        {
+          "label_cn": "酸值",
+          "code": "acid_value",
+          "value_text": "mgKOH/g max.8.0",
+          "unit": "mgKOH/g",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "外观",
+          "code": "appearance",
+          "value_text": "Clearliquid",
+          "unit": "",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "粘度",
+          "code": "viscosity",
+          "value_text": "25°C,mPa.s 2750-5250",
+          "unit": "mPa.s",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "官能度",
+          "code": "functionality",
+          "value_text": "theoretical 3.5",
+          "unit": "",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "羟值",
+          "code": "hydroxyl_value",
+          "value_text": "mgKOH/g 75-110",
+          "unit": "mgKOH/g",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "NCO含量",
+          "code": "nco_content",
+          "value_text": "% ≤0.02",
+          "unit": "%",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "拉伸强度",
+          "code": "tensile_strength",
+          "value_text": "psi(MPa) 6400(44)",
+          "unit": "MPa",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "断裂伸长率",
+          "code": "elongation_at_break",
+          "value_text": "% 2.1",
+          "unit": "%",
+          "confidence": 0.78
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
+    {
+      "id": 1204,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "allnex GmbH",
+      "product_name": "EBECRYL 604",
+      "brand": null,
+      "grade": "EBECRYL 604",
+      "product_code": "EBECRYL 604",
+      "category_name": "UV树脂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 100.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 100.0,
+      "property_count": 7,
+      "evidence_count": 1,
+      "confidence": 0.78,
+      "source_types": [
+        "official_tds"
+      ],
+      "parameters": [
+        {
+          "label_cn": "粘度",
+          "code": "viscosity",
+          "value_text": "at25°C,mPa.s ±8500",
+          "unit": "mPa.s",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "酸值",
+          "code": "acid_value",
+          "value_text": "mgKOH/g max.2",
+          "unit": "mgKOH/g",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "密度",
+          "code": "density",
+          "value_text": "g/cm3 1.13",
+          "unit": "g/cm3",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "官能度",
+          "code": "functionality",
+          "value_text": "theoretical 2",
+          "unit": "",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "拉伸强度",
+          "code": "tensile_strength",
+          "value_text": "MPa 36",
+          "unit": "MPa",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "断裂伸长率",
+          "code": "elongation_at_break",
+          "value_text": "% 2",
+          "unit": "%",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "Tg",
+          "code": "tg",
+          "value_text": "°C 53",
+          "unit": "C",
+          "confidence": 0.78
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null
+    },
     {
       "id": 998,
       "customer_visible_material_type": "raw_material",
@@ -8479,6 +8724,762 @@
     }
   ],
   "product_details": {
+    "1203": {
+      "id": 1203,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "allnex GmbH",
+      "product_name": "EBECRYL 160",
+      "brand": null,
+      "grade": "EBECRYL 160",
+      "product_code": "EBECRYL 160",
+      "category_name": "UV单体",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 100.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 100.0,
+      "property_count": 9,
+      "evidence_count": 1,
+      "confidence": 0.78,
+      "source_types": [
+        "official_tds"
+      ],
+      "parameters": [
+        {
+          "label_cn": "外观",
+          "code": "appearance",
+          "value_text": "clearliquid",
+          "unit": "",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "粘度",
+          "code": "viscosity",
+          "value_text": "at25°C,mPa.s 60-80",
+          "unit": "mPa.s",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "酸值",
+          "code": "acid_value",
+          "value_text": "mgKOH/g max.0.4",
+          "unit": "mgKOH/g",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "密度",
+          "code": "density",
+          "value_text": "g/cm3 1.09",
+          "unit": "g/cm3",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "官能度",
+          "code": "functionality",
+          "value_text": "theoretical 3",
+          "unit": "",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "拉伸强度",
+          "code": "tensile_strength",
+          "value_text": "psi(MPa) 2450(17)",
+          "unit": "MPa",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "断裂伸长率",
+          "code": "elongation_at_break",
+          "value_text": "% 1",
+          "unit": "%",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "拉伸模量",
+          "code": "tensile_modulus",
+          "value_text": "psi(MPa) 278500(1920)",
+          "unit": "MPa",
+          "confidence": 0.78
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_tds"
+        ],
+        "missing_parameter_labels": [
+          "弯曲强度"
+        ]
+      },
+      "material_identity": null,
+      "properties": [
+        {
+          "id": 4204,
+          "label_cn": "官能度",
+          "label_en": "Functionality",
+          "code": "functionality",
+          "domain": "chemistry",
+          "value_text": "theoretical 3",
+          "unit": "",
+          "normalized_min": 3.0,
+          "normalized_max": 3.0,
+          "normalized_unit": "",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®160",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/FBE25C4C-482C-48C4-9A92-06D1402C50DF/EBECRYL-160_EN_A4.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4202,
+          "label_cn": "酸值",
+          "label_en": "Acid value",
+          "code": "acid_value",
+          "domain": "chemistry",
+          "value_text": "mgKOH/g max.0.4",
+          "unit": "mgKOH/g",
+          "normalized_min": 0.4,
+          "normalized_max": 0.4,
+          "normalized_unit": "mgKOH/g",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®160",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/FBE25C4C-482C-48C4-9A92-06D1402C50DF/EBECRYL-160_EN_A4.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4205,
+          "label_cn": "拉伸强度",
+          "label_en": "Tensile strength",
+          "code": "tensile_strength",
+          "domain": "mechanical",
+          "value_text": "psi(MPa) 2450(17)",
+          "unit": "MPa",
+          "normalized_min": 17.0,
+          "normalized_max": 17.0,
+          "normalized_unit": "MPa",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®160",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/FBE25C4C-482C-48C4-9A92-06D1402C50DF/EBECRYL-160_EN_A4.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4207,
+          "label_cn": "拉伸模量",
+          "label_en": "Tensile modulus",
+          "code": "tensile_modulus",
+          "domain": "mechanical",
+          "value_text": "psi(MPa) 278500(1920)",
+          "unit": "MPa",
+          "normalized_min": 1920.0,
+          "normalized_max": 1920.0,
+          "normalized_unit": "MPa",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®160",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/FBE25C4C-482C-48C4-9A92-06D1402C50DF/EBECRYL-160_EN_A4.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4206,
+          "label_cn": "断裂伸长率",
+          "label_en": "Elongation at break",
+          "code": "elongation_at_break",
+          "domain": "mechanical",
+          "value_text": "% 1",
+          "unit": "%",
+          "normalized_min": 1.0,
+          "normalized_max": 1.0,
+          "normalized_unit": "%",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®160",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/FBE25C4C-482C-48C4-9A92-06D1402C50DF/EBECRYL-160_EN_A4.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4200,
+          "label_cn": "外观",
+          "label_en": "Appearance",
+          "code": "appearance",
+          "domain": "physical",
+          "value_text": "clearliquid",
+          "unit": "",
+          "normalized_min": null,
+          "normalized_max": null,
+          "normalized_unit": "",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®160",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/FBE25C4C-482C-48C4-9A92-06D1402C50DF/EBECRYL-160_EN_A4.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4203,
+          "label_cn": "密度",
+          "label_en": "Density",
+          "code": "density",
+          "domain": "physical",
+          "value_text": "g/cm3 1.09",
+          "unit": "g/cm3",
+          "normalized_min": 1.09,
+          "normalized_max": 1.09,
+          "normalized_unit": "g/cm3",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®160",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/FBE25C4C-482C-48C4-9A92-06D1402C50DF/EBECRYL-160_EN_A4.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4201,
+          "label_cn": "粘度",
+          "label_en": "Viscosity",
+          "code": "viscosity",
+          "domain": "rheology",
+          "value_text": "at25°C,mPa.s 60-80",
+          "unit": "mPa.s",
+          "normalized_min": 60.0,
+          "normalized_max": 80.0,
+          "normalized_unit": "mPa.s",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®160",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/FBE25C4C-482C-48C4-9A92-06D1402C50DF/EBECRYL-160_EN_A4.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4208,
+          "label_cn": "Tg",
+          "label_en": "Glass transition temperature",
+          "code": "tg",
+          "domain": "thermal",
+          "value_text": "°C 59",
+          "unit": "C",
+          "normalized_min": 59.0,
+          "normalized_max": 59.0,
+          "normalized_unit": "C",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®160",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/FBE25C4C-482C-48C4-9A92-06D1402C50DF/EBECRYL-160_EN_A4.pdf",
+          "snippet": null
+        }
+      ]
+    },
+    "1205": {
+      "id": 1205,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "allnex GmbH",
+      "product_name": "EBECRYL 8210",
+      "brand": null,
+      "grade": "EBECRYL 8210",
+      "product_code": "EBECRYL 8210",
+      "category_name": "UV树脂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 100.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 100.0,
+      "property_count": 9,
+      "evidence_count": 1,
+      "confidence": 0.78,
+      "source_types": [
+        "official_tds"
+      ],
+      "parameters": [
+        {
+          "label_cn": "酸值",
+          "code": "acid_value",
+          "value_text": "mgKOH/g max.8.0",
+          "unit": "mgKOH/g",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "外观",
+          "code": "appearance",
+          "value_text": "Clearliquid",
+          "unit": "",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "粘度",
+          "code": "viscosity",
+          "value_text": "25°C,mPa.s 2750-5250",
+          "unit": "mPa.s",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "官能度",
+          "code": "functionality",
+          "value_text": "theoretical 3.5",
+          "unit": "",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "羟值",
+          "code": "hydroxyl_value",
+          "value_text": "mgKOH/g 75-110",
+          "unit": "mgKOH/g",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "NCO含量",
+          "code": "nco_content",
+          "value_text": "% ≤0.02",
+          "unit": "%",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "拉伸强度",
+          "code": "tensile_strength",
+          "value_text": "psi(MPa) 6400(44)",
+          "unit": "MPa",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "断裂伸长率",
+          "code": "elongation_at_break",
+          "value_text": "% 2.1",
+          "unit": "%",
+          "confidence": 0.78
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_tds"
+        ],
+        "missing_parameter_labels": [
+          "弯曲强度"
+        ]
+      },
+      "material_identity": null,
+      "properties": [
+        {
+          "id": 4221,
+          "label_cn": "NCO含量",
+          "label_en": "NCO content",
+          "code": "nco_content",
+          "domain": "chemistry",
+          "value_text": "% ≤0.02",
+          "unit": "%",
+          "normalized_min": null,
+          "normalized_max": 0.02,
+          "normalized_unit": "%",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®8210",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/8336C301-C795-4725-94B1-09B2777C4A70/EBECRYL-8210_EN_A4.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4219,
+          "label_cn": "官能度",
+          "label_en": "Functionality",
+          "code": "functionality",
+          "domain": "chemistry",
+          "value_text": "theoretical 3.5",
+          "unit": "",
+          "normalized_min": 3.5,
+          "normalized_max": 3.5,
+          "normalized_unit": "",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®8210",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/8336C301-C795-4725-94B1-09B2777C4A70/EBECRYL-8210_EN_A4.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4220,
+          "label_cn": "羟值",
+          "label_en": "Hydroxyl value",
+          "code": "hydroxyl_value",
+          "domain": "chemistry",
+          "value_text": "mgKOH/g 75-110",
+          "unit": "mgKOH/g",
+          "normalized_min": 75.0,
+          "normalized_max": 110.0,
+          "normalized_unit": "mgKOH/g",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®8210",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/8336C301-C795-4725-94B1-09B2777C4A70/EBECRYL-8210_EN_A4.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4216,
+          "label_cn": "酸值",
+          "label_en": "Acid value",
+          "code": "acid_value",
+          "domain": "chemistry",
+          "value_text": "mgKOH/g max.8.0",
+          "unit": "mgKOH/g",
+          "normalized_min": 8.0,
+          "normalized_max": 8.0,
+          "normalized_unit": "mgKOH/g",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®8210",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/8336C301-C795-4725-94B1-09B2777C4A70/EBECRYL-8210_EN_A4.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4222,
+          "label_cn": "拉伸强度",
+          "label_en": "Tensile strength",
+          "code": "tensile_strength",
+          "domain": "mechanical",
+          "value_text": "psi(MPa) 6400(44)",
+          "unit": "MPa",
+          "normalized_min": 44.0,
+          "normalized_max": 44.0,
+          "normalized_unit": "MPa",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®8210",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/8336C301-C795-4725-94B1-09B2777C4A70/EBECRYL-8210_EN_A4.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4223,
+          "label_cn": "断裂伸长率",
+          "label_en": "Elongation at break",
+          "code": "elongation_at_break",
+          "domain": "mechanical",
+          "value_text": "% 2.1",
+          "unit": "%",
+          "normalized_min": 2.1,
+          "normalized_max": 2.1,
+          "normalized_unit": "%",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®8210",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/8336C301-C795-4725-94B1-09B2777C4A70/EBECRYL-8210_EN_A4.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4217,
+          "label_cn": "外观",
+          "label_en": "Appearance",
+          "code": "appearance",
+          "domain": "physical",
+          "value_text": "Clearliquid",
+          "unit": "",
+          "normalized_min": null,
+          "normalized_max": null,
+          "normalized_unit": "",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®8210",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/8336C301-C795-4725-94B1-09B2777C4A70/EBECRYL-8210_EN_A4.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4218,
+          "label_cn": "粘度",
+          "label_en": "Viscosity",
+          "code": "viscosity",
+          "domain": "rheology",
+          "value_text": "25°C,mPa.s 2750-5250",
+          "unit": "mPa.s",
+          "normalized_min": 2750.0,
+          "normalized_max": 5250.0,
+          "normalized_unit": "mPa.s",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®8210",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/8336C301-C795-4725-94B1-09B2777C4A70/EBECRYL-8210_EN_A4.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4224,
+          "label_cn": "Tg",
+          "label_en": "Glass transition temperature",
+          "code": "tg",
+          "domain": "thermal",
+          "value_text": "°C 68",
+          "unit": "C",
+          "normalized_min": 68.0,
+          "normalized_max": 68.0,
+          "normalized_unit": "C",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®8210",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/8336C301-C795-4725-94B1-09B2777C4A70/EBECRYL-8210_EN_A4.pdf",
+          "snippet": null
+        }
+      ]
+    },
+    "1204": {
+      "id": 1204,
+      "customer_visible_material_type": "raw_material",
+      "company_name": "allnex GmbH",
+      "product_name": "EBECRYL 604",
+      "brand": null,
+      "grade": "EBECRYL 604",
+      "product_code": "EBECRYL 604",
+      "category_name": "UV树脂",
+      "status": "candidate",
+      "completeness_grade": "C",
+      "data_completeness_score": 100.0,
+      "source_reliability_score": 95.0,
+      "selection_readiness_score": 100.0,
+      "property_count": 7,
+      "evidence_count": 1,
+      "confidence": 0.78,
+      "source_types": [
+        "official_tds"
+      ],
+      "parameters": [
+        {
+          "label_cn": "粘度",
+          "code": "viscosity",
+          "value_text": "at25°C,mPa.s ±8500",
+          "unit": "mPa.s",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "酸值",
+          "code": "acid_value",
+          "value_text": "mgKOH/g max.2",
+          "unit": "mgKOH/g",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "密度",
+          "code": "density",
+          "value_text": "g/cm3 1.13",
+          "unit": "g/cm3",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "官能度",
+          "code": "functionality",
+          "value_text": "theoretical 2",
+          "unit": "",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "拉伸强度",
+          "code": "tensile_strength",
+          "value_text": "MPa 36",
+          "unit": "MPa",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "断裂伸长率",
+          "code": "elongation_at_break",
+          "value_text": "% 2",
+          "unit": "%",
+          "confidence": 0.78
+        },
+        {
+          "label_cn": "Tg",
+          "code": "tg",
+          "value_text": "°C 53",
+          "unit": "C",
+          "confidence": 0.78
+        }
+      ],
+      "matched_parameter_codes": [],
+      "missing_parameter_codes": [],
+      "failed_parameter_codes": [],
+      "pending_parameter_codes": [],
+      "filter_match_score": null,
+      "evidence_summary": {
+        "official_evidence_count": 1,
+        "source_types": [
+          "official_tds"
+        ],
+        "missing_parameter_labels": [
+          "弯曲强度"
+        ]
+      },
+      "material_identity": null,
+      "properties": [
+        {
+          "id": 4212,
+          "label_cn": "官能度",
+          "label_en": "Functionality",
+          "code": "functionality",
+          "domain": "chemistry",
+          "value_text": "theoretical 2",
+          "unit": "",
+          "normalized_min": 2.0,
+          "normalized_max": 2.0,
+          "normalized_unit": "",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®604",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/0B468950-6EA3-4B71-9564-6A30BF9804D4/EBECRYL-604_EN_A4.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4210,
+          "label_cn": "酸值",
+          "label_en": "Acid value",
+          "code": "acid_value",
+          "domain": "chemistry",
+          "value_text": "mgKOH/g max.2",
+          "unit": "mgKOH/g",
+          "normalized_min": 2.0,
+          "normalized_max": 2.0,
+          "normalized_unit": "mgKOH/g",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®604",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/0B468950-6EA3-4B71-9564-6A30BF9804D4/EBECRYL-604_EN_A4.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4213,
+          "label_cn": "拉伸强度",
+          "label_en": "Tensile strength",
+          "code": "tensile_strength",
+          "domain": "mechanical",
+          "value_text": "MPa 36",
+          "unit": "MPa",
+          "normalized_min": 36.0,
+          "normalized_max": 36.0,
+          "normalized_unit": "MPa",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®604",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/0B468950-6EA3-4B71-9564-6A30BF9804D4/EBECRYL-604_EN_A4.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4214,
+          "label_cn": "断裂伸长率",
+          "label_en": "Elongation at break",
+          "code": "elongation_at_break",
+          "domain": "mechanical",
+          "value_text": "% 2",
+          "unit": "%",
+          "normalized_min": 2.0,
+          "normalized_max": 2.0,
+          "normalized_unit": "%",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®604",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/0B468950-6EA3-4B71-9564-6A30BF9804D4/EBECRYL-604_EN_A4.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4211,
+          "label_cn": "密度",
+          "label_en": "Density",
+          "code": "density",
+          "domain": "physical",
+          "value_text": "g/cm3 1.13",
+          "unit": "g/cm3",
+          "normalized_min": 1.13,
+          "normalized_max": 1.13,
+          "normalized_unit": "g/cm3",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®604",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/0B468950-6EA3-4B71-9564-6A30BF9804D4/EBECRYL-604_EN_A4.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4209,
+          "label_cn": "粘度",
+          "label_en": "Viscosity",
+          "code": "viscosity",
+          "domain": "rheology",
+          "value_text": "at25°C,mPa.s ±8500",
+          "unit": "mPa.s",
+          "normalized_min": 8500.0,
+          "normalized_max": 8500.0,
+          "normalized_unit": "mPa.s",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®604",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/0B468950-6EA3-4B71-9564-6A30BF9804D4/EBECRYL-604_EN_A4.pdf",
+          "snippet": null
+        },
+        {
+          "id": 4215,
+          "label_cn": "Tg",
+          "label_en": "Glass transition temperature",
+          "code": "tg",
+          "domain": "thermal",
+          "value_text": "°C 53",
+          "unit": "C",
+          "normalized_min": 53.0,
+          "normalized_max": 53.0,
+          "normalized_unit": "C",
+          "confidence": 0.78,
+          "review_status": "confirmed",
+          "evidence_status": "有证据",
+          "source_type": "official_tds",
+          "source_title": "EBECRYL®604",
+          "source_url": "https://allnexproductseu.blob.core.windows.net/products/40/0B468950-6EA3-4B71-9564-6A30BF9804D4/EBECRYL-604_EN_A4.pdf",
+          "snippet": null
+        }
+      ]
+    },
     "998": {
       "id": 998,
       "customer_visible_material_type": "raw_material",
@@ -8558,6 +9559,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3966,
@@ -8747,6 +9749,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3947,
@@ -8911,6 +9914,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3963,
@@ -9057,6 +10061,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3942,
@@ -9202,6 +10207,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3917,
@@ -9347,6 +10353,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4174,
@@ -9486,6 +10493,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4192,
@@ -9605,6 +10613,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3982,
@@ -9724,6 +10733,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3977,
@@ -9843,6 +10853,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4162,
@@ -9962,6 +10973,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4168,
@@ -10081,6 +11093,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4171,
@@ -10200,6 +11213,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4165,
@@ -10312,6 +11326,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3920,
@@ -10406,6 +11421,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3919,
@@ -10513,6 +11529,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3948,
@@ -10652,6 +11669,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3971,
@@ -10765,6 +11783,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3955,
@@ -10858,6 +11877,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3925,
@@ -10951,6 +11971,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3926,
@@ -11045,6 +12066,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3952,
@@ -11139,6 +12161,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3950,
@@ -11233,6 +12256,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3973,
@@ -11327,6 +12351,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4187,
@@ -11421,6 +12446,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3984,
@@ -11515,6 +12541,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4178,
@@ -11609,6 +12636,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4185,
@@ -11703,6 +12731,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4194,
@@ -11804,6 +12833,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3923,
@@ -11910,6 +12940,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3934,
@@ -11978,6 +13009,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3935,
@@ -12046,6 +13078,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3936,
@@ -12114,6 +13147,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3937,
@@ -12182,6 +13216,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3938,
@@ -12250,6 +13285,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4155,
@@ -12318,6 +13354,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4160,
@@ -12386,6 +13423,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4157,
@@ -12454,6 +13492,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4156,
@@ -12522,6 +13561,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4158,
@@ -12590,6 +13630,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4161,
@@ -12658,6 +13699,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4159,
@@ -12726,6 +13768,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4154,
@@ -12794,6 +13837,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3939,
@@ -12862,6 +13906,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3946,
@@ -12930,6 +13975,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3959,
@@ -12998,6 +14044,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3958,
@@ -13066,6 +14113,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3964,
@@ -13134,6 +14182,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3922,
@@ -13202,6 +14251,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3941,
@@ -13270,6 +14320,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4181,
@@ -13338,6 +14389,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4198,
@@ -13406,6 +14458,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4199,
@@ -13474,6 +14527,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4180,
@@ -13542,6 +14596,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4182,
@@ -13610,6 +14665,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4195,
@@ -13678,6 +14734,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4196,
@@ -13746,6 +14803,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4197,
@@ -13814,6 +14872,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4179,
@@ -13882,6 +14941,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3949,
@@ -13950,6 +15010,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3974,
@@ -14018,6 +15079,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3979,
@@ -14086,6 +15148,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3978,
@@ -14153,6 +15216,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4107,
@@ -14220,6 +15284,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4108,
@@ -14287,6 +15352,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4109,
@@ -14354,6 +15420,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4045,
@@ -14421,6 +15488,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4046,
@@ -14488,6 +15556,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4047,
@@ -14555,6 +15624,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4126,
@@ -14622,6 +15692,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4048,
@@ -14689,6 +15760,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4049,
@@ -14756,6 +15828,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4050,
@@ -14823,6 +15896,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4051,
@@ -14890,6 +15964,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4052,
@@ -14957,6 +16032,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4053,
@@ -15024,6 +16100,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4127,
@@ -15091,6 +16168,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4054,
@@ -15158,6 +16236,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4055,
@@ -15225,6 +16304,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4056,
@@ -15292,6 +16372,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4057,
@@ -15359,6 +16440,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4128,
@@ -15426,6 +16508,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4058,
@@ -15493,6 +16576,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4059,
@@ -15560,6 +16644,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4129,
@@ -15627,6 +16712,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4130,
@@ -15694,6 +16780,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4060,
@@ -15761,6 +16848,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4061,
@@ -15828,6 +16916,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4131,
@@ -15895,6 +16984,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4062,
@@ -15962,6 +17052,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4132,
@@ -16029,6 +17120,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4133,
@@ -16096,6 +17188,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4063,
@@ -16163,6 +17256,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4134,
@@ -16230,6 +17324,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4064,
@@ -16297,6 +17392,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4135,
@@ -16364,6 +17460,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4065,
@@ -16431,6 +17528,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4066,
@@ -16498,6 +17596,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4067,
@@ -16565,6 +17664,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4136,
@@ -16632,6 +17732,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4068,
@@ -16699,6 +17800,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4069,
@@ -16766,6 +17868,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4070,
@@ -16833,6 +17936,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4071,
@@ -16900,6 +18004,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4137,
@@ -16967,6 +18072,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4072,
@@ -17034,6 +18140,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4138,
@@ -17101,6 +18208,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4073,
@@ -17168,6 +18276,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4074,
@@ -17235,6 +18344,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4075,
@@ -17302,6 +18412,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4139,
@@ -17369,6 +18480,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4140,
@@ -17436,6 +18548,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4076,
@@ -17503,6 +18616,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4077,
@@ -17570,6 +18684,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4141,
@@ -17637,6 +18752,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4142,
@@ -17704,6 +18820,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4078,
@@ -17771,6 +18888,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4079,
@@ -17838,6 +18956,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4080,
@@ -17905,6 +19024,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4081,
@@ -17972,6 +19092,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4082,
@@ -18039,6 +19160,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4143,
@@ -18106,6 +19228,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4144,
@@ -18173,6 +19296,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4083,
@@ -18240,6 +19364,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4145,
@@ -18307,6 +19432,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4146,
@@ -18374,6 +19500,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4084,
@@ -18441,6 +19568,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4085,
@@ -18508,6 +19636,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4147,
@@ -18575,6 +19704,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4086,
@@ -18642,6 +19772,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4148,
@@ -18709,6 +19840,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4149,
@@ -18776,6 +19908,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4087,
@@ -18843,6 +19976,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4088,
@@ -18910,6 +20044,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4150,
@@ -18977,6 +20112,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4089,
@@ -19044,6 +20180,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4151,
@@ -19111,6 +20248,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4090,
@@ -19178,6 +20316,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4091,
@@ -19245,6 +20384,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4152,
@@ -19312,6 +20452,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4092,
@@ -19379,6 +20520,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4093,
@@ -19446,6 +20588,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4153,
@@ -19513,6 +20656,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4094,
@@ -19580,6 +20724,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4095,
@@ -19647,6 +20792,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4096,
@@ -19714,6 +20860,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4097,
@@ -19781,6 +20928,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4098,
@@ -19848,6 +20996,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4099,
@@ -19915,6 +21064,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4100,
@@ -19982,6 +21132,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4101,
@@ -20049,6 +21200,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4102,
@@ -20116,6 +21268,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4103,
@@ -20183,6 +21336,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4104,
@@ -20250,6 +21404,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4105,
@@ -20317,6 +21472,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4106,
@@ -20384,6 +21540,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4110,
@@ -20451,6 +21608,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4111,
@@ -20518,6 +21676,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4112,
@@ -20585,6 +21744,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4113,
@@ -20652,6 +21812,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3985,
@@ -20719,6 +21880,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3986,
@@ -20786,6 +21948,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3987,
@@ -20853,6 +22016,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3988,
@@ -20920,6 +22084,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4114,
@@ -20987,6 +22152,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4115,
@@ -21054,6 +22220,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4116,
@@ -21121,6 +22288,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4117,
@@ -21188,6 +22356,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4118,
@@ -21255,6 +22424,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4119,
@@ -21322,6 +22492,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4120,
@@ -21389,6 +22560,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4121,
@@ -21456,6 +22628,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4122,
@@ -21523,6 +22696,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4123,
@@ -21590,6 +22764,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3989,
@@ -21657,6 +22832,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3990,
@@ -21724,6 +22900,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3991,
@@ -21791,6 +22968,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3992,
@@ -21858,6 +23036,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3993,
@@ -21925,6 +23104,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3994,
@@ -21992,6 +23172,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3995,
@@ -22059,6 +23240,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3996,
@@ -22126,6 +23308,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3997,
@@ -22193,6 +23376,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3998,
@@ -22260,6 +23444,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 3999,
@@ -22327,6 +23512,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4000,
@@ -22394,6 +23580,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4001,
@@ -22461,6 +23648,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4002,
@@ -22528,6 +23716,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4003,
@@ -22595,6 +23784,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4004,
@@ -22662,6 +23852,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4005,
@@ -22729,6 +23920,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4006,
@@ -22796,6 +23988,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4007,
@@ -22863,6 +24056,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4008,
@@ -22930,6 +24124,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4009,
@@ -22997,6 +24192,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4010,
@@ -23064,6 +24260,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4011,
@@ -23131,6 +24328,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4012,
@@ -23198,6 +24396,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4013,
@@ -23265,6 +24464,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4014,
@@ -23332,6 +24532,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4015,
@@ -23399,6 +24600,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4016,
@@ -23466,6 +24668,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4017,
@@ -23533,6 +24736,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4018,
@@ -23600,6 +24804,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4019,
@@ -23667,6 +24872,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4020,
@@ -23734,6 +24940,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4021,
@@ -23801,6 +25008,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4022,
@@ -23868,6 +25076,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4023,
@@ -23935,6 +25144,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4024,
@@ -24002,6 +25212,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4025,
@@ -24069,6 +25280,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4026,
@@ -24136,6 +25348,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4027,
@@ -24203,6 +25416,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4028,
@@ -24270,6 +25484,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4029,
@@ -24337,6 +25552,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4030,
@@ -24404,6 +25620,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4031,
@@ -24471,6 +25688,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4032,
@@ -24538,6 +25756,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4033,
@@ -24605,6 +25824,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4034,
@@ -24672,6 +25892,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4035,
@@ -24739,6 +25960,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4036,
@@ -24806,6 +26028,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4037,
@@ -24873,6 +26096,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4038,
@@ -24940,6 +26164,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4124,
@@ -25007,6 +26232,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4125,
@@ -25074,6 +26300,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4039,
@@ -25141,6 +26368,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4040,
@@ -25208,6 +26436,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4041,
@@ -25275,6 +26504,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4042,
@@ -25342,6 +26572,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4043,
@@ -25409,6 +26640,7 @@
           "弯曲强度"
         ]
       },
+      "material_identity": null,
       "properties": [
         {
           "id": 4044,
